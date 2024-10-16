@@ -1,0 +1,189 @@
+[2024-10-10T11:48:52.382+0700] {processor.py:157} INFO - Started process (PID=2919) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:48:52.383+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:48:52.385+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:52.385+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:48:52.420+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:48:52.461+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:52.461+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:48:52.506+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:52.506+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:48:52.868+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.492 seconds
+[2024-10-10T11:52:20.176+0700] {processor.py:157} INFO - Started process (PID=3254) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:52:20.314+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:52:20.377+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:20.376+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:52:25.229+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:52:25.312+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:25.311+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:52:25.363+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:25.362+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:52:25.786+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 5.685 seconds
+[2024-10-10T11:53:58.604+0700] {processor.py:157} INFO - Started process (PID=3378) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:53:58.650+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:53:58.653+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:58.652+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:53:58.673+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:53:58.715+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:58.714+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:53:58.760+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:58.760+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:53:58.931+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.333 seconds
+[2024-10-10T11:54:57.740+0700] {processor.py:157} INFO - Started process (PID=3450) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:54:57.966+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:54:57.968+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:57.968+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:54:57.988+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:54:58.030+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:58.030+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:54:58.078+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:58.078+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:54:58.429+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.694 seconds
+[2024-10-10T11:56:05.748+0700] {processor.py:157} INFO - Started process (PID=3529) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:56:05.757+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:56:05.760+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:05.759+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:56:05.781+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:56:05.823+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:05.822+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:56:05.876+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:05.876+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:56:06.008+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.267 seconds
+[2024-10-10T11:57:03.719+0700] {processor.py:157} INFO - Started process (PID=3590) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:57:03.749+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:57:03.752+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:03.751+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:57:03.774+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:57:03.816+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:03.815+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:57:03.862+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:03.862+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:57:03.984+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.271 seconds
+[2024-10-10T11:58:00.692+0700] {processor.py:157} INFO - Started process (PID=3650) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:58:00.732+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:58:00.734+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:00.734+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:58:00.756+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:58:00.797+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:00.797+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:58:00.842+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:00.842+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:58:00.961+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.276 seconds
+[2024-10-10T11:59:12.646+0700] {processor.py:157} INFO - Started process (PID=3739) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:59:12.664+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T11:59:12.667+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:12.666+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:59:12.690+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T11:59:12.735+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:12.734+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:59:12.784+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:12.783+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:59:12.908+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.268 seconds
+[2024-10-10T12:00:10.137+0700] {processor.py:157} INFO - Started process (PID=3797) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:00:10.154+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:00:10.157+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:10.156+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:00:10.180+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:00:10.221+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:10.221+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:00:10.268+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:10.268+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:00:10.383+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.254 seconds
+[2024-10-10T12:01:06.377+0700] {processor.py:157} INFO - Started process (PID=3857) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:01:06.392+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:01:06.395+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:06.394+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:01:06.416+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:01:06.458+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:06.457+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:01:06.503+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:06.503+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:01:06.619+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.248 seconds
+[2024-10-10T12:02:22.239+0700] {processor.py:157} INFO - Started process (PID=3943) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:02:22.241+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:02:22.243+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:22.242+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:02:22.261+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:02:22.304+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:22.303+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:02:22.349+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:22.348+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:02:22.469+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.236 seconds
+[2024-10-10T12:03:39.694+0700] {processor.py:157} INFO - Started process (PID=4029) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:03:39.696+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:03:39.698+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:39.697+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:03:39.715+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:03:39.757+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:39.757+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:03:39.805+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:39.804+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:03:39.923+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.235 seconds
+[2024-10-10T12:04:58.523+0700] {processor.py:157} INFO - Started process (PID=4167) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:04:58.581+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:04:58.584+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:58.583+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:04:58.684+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:04:58.756+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:58.756+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:04:58.837+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:58.837+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:04:59.017+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.507 seconds
+[2024-10-10T12:05:56.581+0700] {processor.py:157} INFO - Started process (PID=4232) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:05:56.648+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:05:56.651+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:56.650+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:05:56.672+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:05:56.715+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:56.715+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:05:56.760+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:56.760+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:05:56.881+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.306 seconds
+[2024-10-10T12:07:18.772+0700] {processor.py:157} INFO - Started process (PID=4318) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:07:18.794+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:07:18.797+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:18.796+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:07:18.818+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:07:18.859+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:18.859+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:07:18.907+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:18.906+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:07:19.059+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.294 seconds
+[2024-10-10T12:08:17.097+0700] {processor.py:157} INFO - Started process (PID=4387) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:08:17.099+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:08:17.101+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:17.100+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:08:17.118+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:08:17.160+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:17.160+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:08:17.205+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:17.204+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:08:17.315+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.224 seconds
+[2024-10-10T12:09:13.123+0700] {processor.py:157} INFO - Started process (PID=4445) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:09:13.125+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:09:13.126+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:13.126+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:09:13.144+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:09:13.186+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:13.185+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:09:13.232+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:13.232+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:09:13.339+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.223 seconds
+[2024-10-10T12:10:31.359+0700] {processor.py:157} INFO - Started process (PID=4524) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:10:31.370+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:10:31.373+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:31.372+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:10:31.394+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:10:31.436+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:31.435+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:10:31.480+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:31.480+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:10:31.588+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.235 seconds
+[2024-10-10T12:11:50.974+0700] {processor.py:157} INFO - Started process (PID=4629) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:11:50.976+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:11:50.977+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:50.977+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:11:50.995+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:11:51.036+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:51.035+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:11:51.080+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:51.080+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:11:51.200+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.232 seconds
+[2024-10-10T12:13:10.399+0700] {processor.py:157} INFO - Started process (PID=4715) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:13:10.436+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:13:10.439+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:10.439+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:13:10.461+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:13:10.504+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:10.504+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:13:10.554+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:10.554+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:13:10.672+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.278 seconds
+[2024-10-10T12:14:23.972+0700] {processor.py:157} INFO - Started process (PID=4800) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:14:24.005+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:14:24.007+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:24.006+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:14:24.029+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:14:24.070+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:24.069+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:14:24.116+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:24.116+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:14:24.236+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.271 seconds
+[2024-10-10T12:15:41.308+0700] {processor.py:157} INFO - Started process (PID=4898) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:15:41.355+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:15:41.358+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:41.357+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:15:41.379+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:15:41.421+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:41.420+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:15:41.468+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:41.468+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:15:41.590+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.289 seconds
+[2024-10-10T12:17:02.212+0700] {processor.py:157} INFO - Started process (PID=4992) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:17:02.214+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:17:02.216+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:02.215+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:17:02.233+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:17:02.274+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:02.274+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:02.319+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:02.319+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:17:02.467+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.261 seconds
+[2024-10-10T12:17:58.580+0700] {processor.py:157} INFO - Started process (PID=5058) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:17:58.624+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:17:58.627+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:58.626+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:17:58.648+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:17:58.689+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:58.689+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:58.734+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:58.734+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:17:58.850+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.277 seconds
+[2024-10-10T12:19:16.292+0700] {processor.py:157} INFO - Started process (PID=5144) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:19:16.329+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:19:16.332+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:16.331+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:19:16.352+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:19:16.397+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:16.397+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:19:16.447+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:16.447+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:19:16.567+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.281 seconds
+[2024-10-10T12:20:38.520+0700] {processor.py:157} INFO - Started process (PID=5238) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:20:38.552+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T12:20:38.555+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:38.554+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:20:38.576+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T12:20:38.617+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:38.616+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:20:38.664+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:38.664+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:20:38.776+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.263 seconds
+[2024-10-10T13:23:31.734+0700] {processor.py:157} INFO - Started process (PID=2480) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T13:23:31.968+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-10-10T13:23:32.192+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:23:32.157+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T13:23:39.890+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-10-10T13:24:29.875+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:24:29.874+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:24:30.982+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:24:30.982+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_operator to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T13:24:31.865+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 60.903 seconds

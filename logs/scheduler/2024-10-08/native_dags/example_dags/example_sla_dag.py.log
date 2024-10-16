@@ -1,0 +1,11 @@
+[2024-10-08T19:28:10.917+0700] {processor.py:157} INFO - Started process (PID=3943) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-08T19:28:10.920+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-08T19:28:10.924+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:10.924+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-08T19:28:10.980+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-08T19:28:12.090+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:12.089+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2024-10-08T19:28:12.383+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:12.382+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2024-10-08T19:28:12.638+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:12.637+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2024-10-08T19:28:12.639+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:12.638+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:28:12.995+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:12.994+0700] {dag.py:2747} INFO - Creating ORM DAG for example_sla_dag
+[2024-10-08T19:28:13.036+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:13.036+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-08T12:26:00+00:00, run_after=2024-10-08T12:28:00+00:00
+[2024-10-08T19:28:13.220+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 2.309 seconds

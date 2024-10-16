@@ -1,0 +1,11 @@
+[2024-10-08T19:28:02.233+0700] {processor.py:157} INFO - Started process (PID=3931) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-08T19:28:02.235+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-10-08T19:28:02.245+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:02.244+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-08T19:28:02.299+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-10-08T19:28:03.027+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:03.027+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_short_circuit_decorator
+[2024-10-08T19:28:03.282+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:03.282+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_short_circuit_decorator
+[2024-10-08T19:28:03.472+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:03.471+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_short_circuit_decorator
+[2024-10-08T19:28:03.473+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:03.472+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:28:03.865+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:03.865+0700] {dag.py:2747} INFO - Creating ORM DAG for example_short_circuit_decorator
+[2024-10-08T19:28:03.891+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:03.891+0700] {dag.py:3486} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-10-07T12:28:03.891058+00:00, run_after=2024-10-08T12:28:03.891058+00:00
+[2024-10-08T19:28:04.141+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 1.920 seconds

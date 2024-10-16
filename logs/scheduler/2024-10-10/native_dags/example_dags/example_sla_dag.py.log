@@ -1,0 +1,266 @@
+[2024-10-10T11:42:50.012+0700] {processor.py:157} INFO - Started process (PID=2740) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:42:50.014+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:42:50.016+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:50.015+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:42:50.079+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:42:50.367+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:50.367+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:42:50.479+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:50.478+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:40:00+00:00, run_after=2024-10-10T04:42:00+00:00
+[2024-10-10T11:42:50.676+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.679 seconds
+[2024-10-10T11:48:13.647+0700] {processor.py:157} INFO - Started process (PID=2886) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:48:13.686+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:48:13.688+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:13.688+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:48:13.710+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:48:13.752+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:13.751+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:48:13.816+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:13.814+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:46:00+00:00, run_after=2024-10-10T04:48:00+00:00
+[2024-10-10T11:48:14.580+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.939 seconds
+[2024-10-10T11:49:27.407+0700] {processor.py:157} INFO - Started process (PID=2946) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:49:27.537+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:49:27.540+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:27.539+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:49:27.561+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:49:27.600+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:27.599+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:49:27.866+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:27.866+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:46:00+00:00, run_after=2024-10-10T04:48:00+00:00
+[2024-10-10T11:49:28.449+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.049 seconds
+[2024-10-10T11:53:02.396+0700] {processor.py:157} INFO - Started process (PID=3320) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:53:02.420+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:53:02.426+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:02.424+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:53:02.454+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:53:02.535+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:02.534+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:53:02.644+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:02.643+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:50:00+00:00, run_after=2024-10-10T04:52:00+00:00
+[2024-10-10T11:53:03.078+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.690 seconds
+[2024-10-10T11:53:54.601+0700] {processor.py:157} INFO - Started process (PID=3375) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:53:54.685+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:53:54.688+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:54.687+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:53:54.706+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:53:54.744+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:54.744+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:53:54.794+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:54.794+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:50:00+00:00, run_after=2024-10-10T04:52:00+00:00
+[2024-10-10T11:53:54.939+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.343 seconds
+[2024-10-10T11:54:52.145+0700] {processor.py:157} INFO - Started process (PID=3434) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:54:52.184+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:54:52.186+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:52.186+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:54:52.206+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:54:52.248+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:52.247+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:54:52.305+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:52.305+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:52:00+00:00, run_after=2024-10-10T04:54:00+00:00
+[2024-10-10T11:54:52.448+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.310 seconds
+[2024-10-10T11:55:59.435+0700] {processor.py:157} INFO - Started process (PID=3521) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:55:59.475+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:55:59.477+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:59.477+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:55:59.496+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:55:59.533+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:59.532+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:55:59.582+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:59.582+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:52:00+00:00, run_after=2024-10-10T04:54:00+00:00
+[2024-10-10T11:55:59.716+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.286 seconds
+[2024-10-10T11:56:57.304+0700] {processor.py:157} INFO - Started process (PID=3580) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:56:57.341+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:56:57.343+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:57.343+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:56:57.362+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:56:57.398+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:57.398+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:56:57.450+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:57.449+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:54:00+00:00, run_after=2024-10-10T04:56:00+00:00
+[2024-10-10T11:56:57.574+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.276 seconds
+[2024-10-10T11:57:54.725+0700] {processor.py:157} INFO - Started process (PID=3643) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:57:54.758+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:57:54.761+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:54.760+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:57:54.779+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:57:54.816+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:54.815+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:57:54.867+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:54.867+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:54:00+00:00, run_after=2024-10-10T04:56:00+00:00
+[2024-10-10T11:57:55.071+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.352 seconds
+[2024-10-10T11:59:02.806+0700] {processor.py:157} INFO - Started process (PID=3729) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:59:02.824+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T11:59:02.826+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:02.826+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:59:02.846+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T11:59:02.886+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:02.885+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:59:02.938+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:02.938+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:56:00+00:00, run_after=2024-10-10T04:58:00+00:00
+[2024-10-10T11:59:03.056+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.257 seconds
+[2024-10-10T12:00:03.183+0700] {processor.py:157} INFO - Started process (PID=3789) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:00:03.195+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:00:03.198+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:03.197+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:00:03.218+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:00:03.255+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:03.254+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:00:03.306+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:03.305+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:58:00+00:00, run_after=2024-10-10T05:00:00+00:00
+[2024-10-10T12:00:03.414+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.237 seconds
+[2024-10-10T12:00:55.919+0700] {processor.py:157} INFO - Started process (PID=3847) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:00:55.930+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:00:55.932+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:55.931+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:00:55.950+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:00:55.986+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:55.986+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:00:56.035+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:56.035+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:58:00+00:00, run_after=2024-10-10T05:00:00+00:00
+[2024-10-10T12:00:56.159+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.246 seconds
+[2024-10-10T12:01:50.010+0700] {processor.py:157} INFO - Started process (PID=3903) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:01:50.022+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:01:50.024+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:50.023+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:01:50.045+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:01:50.081+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:50.080+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:01:50.133+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:50.132+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T04:58:00+00:00, run_after=2024-10-10T05:00:00+00:00
+[2024-10-10T12:01:50.270+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.267 seconds
+[2024-10-10T12:02:39.757+0700] {processor.py:157} INFO - Started process (PID=3963) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:02:39.758+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:02:39.760+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:39.759+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:02:39.776+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:02:39.812+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:39.811+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:02:39.860+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:39.860+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:00:00+00:00, run_after=2024-10-10T05:02:00+00:00
+[2024-10-10T12:02:39.976+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.226 seconds
+[2024-10-10T12:03:32.831+0700] {processor.py:157} INFO - Started process (PID=4021) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:03:32.836+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:03:32.838+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:32.837+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:03:32.857+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:03:32.894+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:32.893+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:03:32.945+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:32.945+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:00:00+00:00, run_after=2024-10-10T05:02:00+00:00
+[2024-10-10T12:03:33.078+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.253 seconds
+[2024-10-10T12:04:24.622+0700] {processor.py:157} INFO - Started process (PID=4077) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:04:24.647+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:04:24.650+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:24.649+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:04:24.671+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:04:24.707+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:24.707+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:04:24.755+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:24.755+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:02:00+00:00, run_after=2024-10-10T05:04:00+00:00
+[2024-10-10T12:04:24.875+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.259 seconds
+[2024-10-10T12:05:18.210+0700] {processor.py:157} INFO - Started process (PID=4190) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:05:18.221+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:05:18.224+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:18.223+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:05:18.244+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:05:18.280+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:18.280+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:05:18.332+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:18.331+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:02:00+00:00, run_after=2024-10-10T05:04:00+00:00
+[2024-10-10T12:05:18.500+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.296 seconds
+[2024-10-10T12:06:13.612+0700] {processor.py:157} INFO - Started process (PID=4250) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:06:13.655+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:06:13.658+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:13.657+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:06:13.676+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:06:13.714+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:13.713+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:06:13.763+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:13.762+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:04:00+00:00, run_after=2024-10-10T05:06:00+00:00
+[2024-10-10T12:06:13.913+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.307 seconds
+[2024-10-10T12:07:09.509+0700] {processor.py:157} INFO - Started process (PID=4308) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:07:09.523+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:07:09.526+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:09.525+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:07:09.546+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:07:09.582+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:09.581+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:07:09.633+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:09.633+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:04:00+00:00, run_after=2024-10-10T05:06:00+00:00
+[2024-10-10T12:07:09.798+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.295 seconds
+[2024-10-10T12:08:09.011+0700] {processor.py:157} INFO - Started process (PID=4373) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:08:09.035+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:08:09.037+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:09.037+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:08:09.056+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:08:09.092+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:09.091+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:08:09.141+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:09.141+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:06:00+00:00, run_after=2024-10-10T05:08:00+00:00
+[2024-10-10T12:08:09.279+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.274 seconds
+[2024-10-10T12:09:04.124+0700] {processor.py:157} INFO - Started process (PID=4434) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:09:04.148+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:09:04.151+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:04.150+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:09:04.171+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:09:04.208+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:04.207+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:09:04.259+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:04.259+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:06:00+00:00, run_after=2024-10-10T05:08:00+00:00
+[2024-10-10T12:09:04.403+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.285 seconds
+[2024-10-10T12:09:58.459+0700] {processor.py:157} INFO - Started process (PID=4492) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:09:58.480+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:09:58.482+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:58.481+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:09:58.503+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:09:58.539+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:58.538+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:09:58.587+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:58.587+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:06:00+00:00, run_after=2024-10-10T05:08:00+00:00
+[2024-10-10T12:09:58.756+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.304 seconds
+[2024-10-10T12:10:48.497+0700] {processor.py:157} INFO - Started process (PID=4555) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:10:48.510+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:10:48.512+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:48.512+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:10:48.531+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:10:48.567+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:48.567+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:10:48.618+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:48.618+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:08:00+00:00, run_after=2024-10-10T05:10:00+00:00
+[2024-10-10T12:10:48.735+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.244 seconds
+[2024-10-10T12:11:41.678+0700] {processor.py:157} INFO - Started process (PID=4619) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:11:41.700+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:11:41.703+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:41.703+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:11:41.722+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:11:41.759+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:41.759+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:11:41.815+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:41.814+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:08:00+00:00, run_after=2024-10-10T05:10:00+00:00
+[2024-10-10T12:11:41.950+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.279 seconds
+[2024-10-10T12:12:36.942+0700] {processor.py:157} INFO - Started process (PID=4681) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:12:36.982+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:12:36.985+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:36.984+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:12:37.003+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:12:37.039+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:37.038+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:12:37.089+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:37.089+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:10:00+00:00, run_after=2024-10-10T05:12:00+00:00
+[2024-10-10T12:12:37.188+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.251 seconds
+[2024-10-10T12:13:28.195+0700] {processor.py:157} INFO - Started process (PID=4739) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:13:28.229+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:13:28.232+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:28.231+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:13:28.251+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:13:28.287+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:28.287+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:13:28.336+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:28.336+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:10:00+00:00, run_after=2024-10-10T05:12:00+00:00
+[2024-10-10T12:13:28.477+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.288 seconds
+[2024-10-10T12:14:16.359+0700] {processor.py:157} INFO - Started process (PID=4794) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:14:16.387+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:14:16.389+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:16.388+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:14:16.407+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:14:16.443+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:16.443+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:14:16.495+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:16.494+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:12:00+00:00, run_after=2024-10-10T05:14:00+00:00
+[2024-10-10T12:14:16.611+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.258 seconds
+[2024-10-10T12:15:07.140+0700] {processor.py:157} INFO - Started process (PID=4855) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:15:07.143+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:15:07.144+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:07.144+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:15:07.160+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:15:07.195+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:07.195+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:15:07.244+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:07.244+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:12:00+00:00, run_after=2024-10-10T05:14:00+00:00
+[2024-10-10T12:15:07.416+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.282 seconds
+[2024-10-10T12:15:59.572+0700] {processor.py:157} INFO - Started process (PID=4916) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:15:59.605+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:15:59.608+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:59.607+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:15:59.628+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:15:59.663+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:59.663+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:15:59.714+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:59.714+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:12:00+00:00, run_after=2024-10-10T05:14:00+00:00
+[2024-10-10T12:15:59.842+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.276 seconds
+[2024-10-10T12:16:54.689+0700] {processor.py:157} INFO - Started process (PID=4982) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:16:54.872+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:16:54.874+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:54.874+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:16:54.892+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:16:54.928+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:54.928+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:16:54.977+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:54.976+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:14:00+00:00, run_after=2024-10-10T05:16:00+00:00
+[2024-10-10T12:16:55.112+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.429 seconds
+[2024-10-10T12:17:49.146+0700] {processor.py:157} INFO - Started process (PID=5048) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:17:49.177+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:17:49.180+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:49.179+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:17:49.199+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:17:49.236+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:49.236+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:49.285+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:49.284+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:14:00+00:00, run_after=2024-10-10T05:16:00+00:00
+[2024-10-10T12:17:49.407+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.267 seconds
+[2024-10-10T12:18:43.571+0700] {processor.py:157} INFO - Started process (PID=5109) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:18:43.582+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:18:43.584+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:43.584+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:18:43.602+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:18:43.638+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:43.638+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:18:43.690+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:43.689+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:16:00+00:00, run_after=2024-10-10T05:18:00+00:00
+[2024-10-10T12:18:43.802+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.236 seconds
+[2024-10-10T12:19:36.315+0700] {processor.py:157} INFO - Started process (PID=5165) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:19:36.343+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:19:36.345+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:36.345+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:19:36.362+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:19:36.399+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:36.399+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:19:36.450+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:36.450+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:16:00+00:00, run_after=2024-10-10T05:18:00+00:00
+[2024-10-10T12:19:36.573+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.264 seconds
+[2024-10-10T12:20:28.263+0700] {processor.py:157} INFO - Started process (PID=5223) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:20:28.290+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:20:28.292+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:28.292+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:20:28.310+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:20:28.346+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:28.345+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:20:28.397+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:28.397+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:18:00+00:00, run_after=2024-10-10T05:20:00+00:00
+[2024-10-10T12:20:28.506+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.250 seconds
+[2024-10-10T12:21:26.725+0700] {processor.py:157} INFO - Started process (PID=5304) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:21:26.784+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T12:21:26.787+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:26.786+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:21:26.808+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T12:21:26.847+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:26.847+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:21:26.900+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:26.900+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T05:18:00+00:00, run_after=2024-10-10T05:20:00+00:00
+[2024-10-10T12:21:27.024+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.305 seconds
+[2024-10-10T13:20:21.598+0700] {processor.py:157} INFO - Started process (PID=1958) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:20:21.668+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T13:20:21.670+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:20:21.670+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:20:21.688+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:20:21.727+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:20:21.726+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:20:21.780+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:20:21.780+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T06:18:00+00:00, run_after=2024-10-10T06:20:00+00:00
+[2024-10-10T13:20:22.810+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.218 seconds
+[2024-10-10T13:25:44.185+0700] {processor.py:157} INFO - Started process (PID=2556) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:25:44.252+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T13:25:44.254+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:25:44.253+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:25:44.284+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:25:44.346+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:25:44.345+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:25:44.420+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:25:44.420+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T06:22:00+00:00, run_after=2024-10-10T06:24:00+00:00
+[2024-10-10T13:25:44.628+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.449 seconds
+[2024-10-10T13:27:22.726+0700] {processor.py:157} INFO - Started process (PID=2715) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:27:23.122+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-10T13:27:23.124+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:27:23.124+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:27:23.221+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-10T13:27:23.265+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:27:23.265+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:27:23.325+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:27:23.325+0700] {dag.py:3486} INFO - Setting next_dagrun for example_sla_dag to 2024-10-10T06:24:00+00:00, run_after=2024-10-10T06:26:00+00:00
+[2024-10-10T13:27:23.741+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.021 seconds

@@ -1,0 +1,11 @@
+[2024-10-08T19:28:20.200+0700] {processor.py:157} INFO - Started process (PID=3950) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-10-08T19:28:20.202+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2024-10-08T19:28:20.203+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:20.203+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-10-08T19:28:20.286+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-10-08T19:28:21.190+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:21.190+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_short_circuit_operator
+[2024-10-08T19:28:21.380+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:21.380+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_short_circuit_operator
+[2024-10-08T19:28:21.661+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:21.660+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_short_circuit_operator
+[2024-10-08T19:28:21.662+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:21.661+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:28:21.907+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:21.907+0700] {dag.py:2747} INFO - Creating ORM DAG for example_short_circuit_operator
+[2024-10-08T19:28:21.928+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:21.927+0700] {dag.py:3486} INFO - Setting next_dagrun for example_short_circuit_operator to 2024-10-07T12:28:21.927315+00:00, run_after=2024-10-08T12:28:21.927315+00:00
+[2024-10-08T19:28:22.206+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_short_circuit_operator.py took 2.012 seconds

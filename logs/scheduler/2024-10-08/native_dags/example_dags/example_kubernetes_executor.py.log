@@ -1,0 +1,6 @@
+[2024-10-08T19:36:32.682+0700] {processor.py:157} INFO - Started process (PID=4550) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2024-10-08T19:36:33.038+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py for tasks to queue
+[2024-10-08T19:36:33.692+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:36:33.658+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2024-10-08T19:36:36.586+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:36:36.585+0700] {example_kubernetes_executor.py:41} WARNING - The example_kubernetes_executor example DAG requires the kubernetes provider. Please install it with: pip install apache-airflow[cncf.kubernetes]
+[2024-10-08T19:36:36.635+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py
+[2024-10-08T19:36:39.330+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_kubernetes_executor.py took 10.938 seconds

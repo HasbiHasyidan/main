@@ -1,0 +1,273 @@
+[2024-10-10T11:42:33.602+0700] {processor.py:157} INFO - Started process (PID=2729) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:42:33.603+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:42:33.605+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:33.604+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:42:33.641+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:42:33.721+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:33.721+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:42:33.771+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:33.771+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:42:33.971+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.376 seconds
+[2024-10-10T11:47:52.525+0700] {processor.py:157} INFO - Started process (PID=2873) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:47:53.005+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:47:53.008+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:47:53.007+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:47:53.026+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:47:53.066+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:47:53.065+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:47:53.121+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:47:53.121+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:47:54.032+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.513 seconds
+[2024-10-10T11:49:13.143+0700] {processor.py:157} INFO - Started process (PID=2937) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:49:13.179+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:49:13.182+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:13.181+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:49:13.196+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:49:13.233+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:13.233+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:49:13.489+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:13.489+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:49:13.945+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.809 seconds
+[2024-10-10T11:50:21.125+0700] {processor.py:157} INFO - Started process (PID=2995) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:50:21.242+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:50:21.336+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:50:21.335+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:50:21.986+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:50:32.624+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:50:32.624+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:50:32.726+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:50:32.726+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:50:33.444+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 12.328 seconds
+[2024-10-10T11:52:51.420+0700] {processor.py:157} INFO - Started process (PID=3288) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:52:51.495+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:52:51.498+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:51.497+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:52:51.511+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:52:51.553+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:51.553+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:52:51.603+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:51.603+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:52:51.903+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.490 seconds
+[2024-10-10T11:53:45.236+0700] {processor.py:157} INFO - Started process (PID=3366) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:53:45.246+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:53:45.249+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:45.248+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:53:45.263+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:53:45.300+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:45.300+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:53:45.342+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:45.342+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:53:45.462+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.233 seconds
+[2024-10-10T11:54:42.454+0700] {processor.py:157} INFO - Started process (PID=3426) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:54:42.483+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:54:42.485+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:42.485+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:54:42.499+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:54:42.537+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:42.537+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:54:42.581+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:42.581+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:54:42.786+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.338 seconds
+[2024-10-10T11:55:49.732+0700] {processor.py:157} INFO - Started process (PID=3511) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:55:49.771+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:55:49.774+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:49.774+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:55:49.788+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:55:49.825+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:49.824+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:55:49.867+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:49.867+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:55:50.008+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.283 seconds
+[2024-10-10T11:56:46.996+0700] {processor.py:157} INFO - Started process (PID=3571) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:56:47.061+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:56:47.064+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:47.063+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:56:47.077+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:56:47.113+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:47.113+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:56:47.157+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:47.156+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:56:47.309+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.318 seconds
+[2024-10-10T11:57:45.300+0700] {processor.py:157} INFO - Started process (PID=3634) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:57:45.323+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:57:45.325+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:45.325+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:57:45.340+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:57:45.376+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:45.376+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:57:45.418+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:45.418+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:57:45.563+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.269 seconds
+[2024-10-10T11:58:51.469+0700] {processor.py:157} INFO - Started process (PID=3718) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:58:51.484+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:58:51.486+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:51.485+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:58:51.501+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:58:51.544+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:51.543+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:58:51.592+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:51.592+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:58:51.714+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.255 seconds
+[2024-10-10T11:59:53.715+0700] {processor.py:157} INFO - Started process (PID=3781) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:59:53.717+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T11:59:53.719+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:53.718+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:59:53.729+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T11:59:53.765+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:53.765+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:59:53.809+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:53.808+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T11:59:53.936+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.227 seconds
+[2024-10-10T12:00:46.840+0700] {processor.py:157} INFO - Started process (PID=3837) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:00:46.842+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:00:46.844+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:46.843+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:00:46.854+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:00:46.890+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:46.890+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:00:46.934+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:46.933+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:00:47.060+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.227 seconds
+[2024-10-10T12:01:40.806+0700] {processor.py:157} INFO - Started process (PID=3895) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:01:40.808+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:01:40.809+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:40.809+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:01:40.820+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:01:40.856+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:40.855+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:01:40.900+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:40.900+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:01:41.028+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.228 seconds
+[2024-10-10T12:02:30.297+0700] {processor.py:157} INFO - Started process (PID=3951) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:02:30.299+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:02:30.300+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:30.300+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:02:30.311+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:02:30.347+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:30.347+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:02:30.392+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:30.392+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:02:30.522+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.231 seconds
+[2024-10-10T12:03:23.468+0700] {processor.py:157} INFO - Started process (PID=4012) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:03:23.481+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:03:23.483+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:23.482+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:03:23.496+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:03:23.532+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:23.532+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:03:23.576+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:23.576+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:03:23.700+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.238 seconds
+[2024-10-10T12:04:15.511+0700] {processor.py:157} INFO - Started process (PID=4068) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:04:15.521+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:04:15.524+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:15.524+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:04:15.537+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:04:15.573+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:15.573+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:04:15.615+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:15.615+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:04:15.720+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.216 seconds
+[2024-10-10T12:05:08.513+0700] {processor.py:157} INFO - Started process (PID=4180) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:05:08.515+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:05:08.516+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:08.516+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:05:08.526+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:05:08.563+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:08.562+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:05:08.607+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:08.606+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:05:08.766+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.260 seconds
+[2024-10-10T12:06:05.289+0700] {processor.py:157} INFO - Started process (PID=4240) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:06:05.299+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:06:05.302+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:05.301+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:06:05.317+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:06:05.355+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:05.355+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:06:05.397+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:05.396+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:06:05.533+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.250 seconds
+[2024-10-10T12:06:59.378+0700] {processor.py:157} INFO - Started process (PID=4299) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:06:59.429+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:06:59.432+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:59.431+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:06:59.446+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:06:59.569+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:59.569+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:06:59.614+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:59.613+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:06:59.767+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.394 seconds
+[2024-10-10T12:07:59.326+0700] {processor.py:157} INFO - Started process (PID=4364) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:07:59.353+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:07:59.355+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:59.354+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:07:59.368+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:07:59.405+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:59.404+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:07:59.447+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:59.446+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:07:59.591+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.271 seconds
+[2024-10-10T12:08:55.927+0700] {processor.py:157} INFO - Started process (PID=4427) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:08:55.955+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:08:55.957+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:55.957+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:08:55.970+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:08:56.006+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:56.006+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:08:56.050+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:56.049+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:08:56.193+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.273 seconds
+[2024-10-10T12:09:49.557+0700] {processor.py:157} INFO - Started process (PID=4483) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:09:49.582+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:09:49.585+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:49.584+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:09:49.599+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:09:49.635+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:49.634+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:09:49.676+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:49.675+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:09:49.819+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.268 seconds
+[2024-10-10T12:10:40.694+0700] {processor.py:157} INFO - Started process (PID=4547) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:10:40.739+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:10:40.741+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:40.740+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:10:40.760+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:10:40.809+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:40.809+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:10:40.858+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:40.858+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:10:40.989+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.301 seconds
+[2024-10-10T12:11:33.040+0700] {processor.py:157} INFO - Started process (PID=4608) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:11:33.086+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:11:33.088+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:33.088+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:11:33.101+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:11:33.140+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:33.140+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:11:33.185+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:33.185+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:11:33.335+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.302 seconds
+[2024-10-10T12:12:28.828+0700] {processor.py:157} INFO - Started process (PID=4668) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:12:28.857+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:12:28.860+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:28.859+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:12:28.873+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:12:28.908+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:28.908+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:12:28.952+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:28.952+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:12:29.071+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.250 seconds
+[2024-10-10T12:13:18.908+0700] {processor.py:157} INFO - Started process (PID=4731) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:13:18.925+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:13:18.928+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:18.927+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:13:18.943+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:13:18.979+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:18.978+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:13:19.020+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:19.020+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:13:19.164+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.262 seconds
+[2024-10-10T12:14:08.012+0700] {processor.py:157} INFO - Started process (PID=4783) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:14:08.059+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:14:08.062+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:08.061+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:14:08.076+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:14:08.112+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:08.111+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:14:08.155+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:08.155+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:14:08.287+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.281 seconds
+[2024-10-10T12:14:58.139+0700] {processor.py:157} INFO - Started process (PID=4842) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:14:58.178+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:14:58.181+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:58.180+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:14:58.195+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:14:58.231+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:58.231+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:14:58.273+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:58.273+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:14:58.399+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.267 seconds
+[2024-10-10T12:15:50.580+0700] {processor.py:157} INFO - Started process (PID=4907) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:15:50.615+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:15:50.617+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:50.616+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:15:50.630+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:15:50.666+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:50.665+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:15:50.709+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:50.709+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:15:50.837+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.264 seconds
+[2024-10-10T12:16:44.662+0700] {processor.py:157} INFO - Started process (PID=4966) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:16:44.719+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:16:44.722+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:44.721+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:16:44.736+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:16:44.775+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:44.775+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:16:44.821+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:44.820+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:16:44.953+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.297 seconds
+[2024-10-10T12:17:40.881+0700] {processor.py:157} INFO - Started process (PID=5034) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:17:40.899+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:17:40.901+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:40.900+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:17:40.914+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:17:40.952+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:40.951+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:40.995+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:40.995+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:17:41.137+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.262 seconds
+[2024-10-10T12:18:34.139+0700] {processor.py:157} INFO - Started process (PID=5100) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:18:34.171+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:18:34.173+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:34.173+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:18:34.186+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:18:34.222+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:34.221+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:18:34.263+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:34.262+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:18:34.399+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.266 seconds
+[2024-10-10T12:19:26.688+0700] {processor.py:157} INFO - Started process (PID=5153) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:19:26.719+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:19:26.722+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:26.721+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:19:26.736+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:19:26.772+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:26.772+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:19:26.814+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:26.813+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:19:26.938+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.256 seconds
+[2024-10-10T12:20:18.749+0700] {processor.py:157} INFO - Started process (PID=5215) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:20:18.772+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:20:18.774+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:18.774+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:20:18.787+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:20:18.822+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:18.822+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:20:18.863+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:18.863+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:20:18.994+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.251 seconds
+[2024-10-10T12:21:16.553+0700] {processor.py:157} INFO - Started process (PID=5293) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:21:16.570+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T12:21:16.573+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:16.572+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:21:16.586+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T12:21:16.626+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:16.625+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:21:16.671+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:16.670+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T12:21:16.832+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.285 seconds
+[2024-10-10T13:20:08.430+0700] {processor.py:157} INFO - Started process (PID=1947) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:20:08.462+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T13:20:08.465+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:20:08.465+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:20:08.481+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:20:08.521+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:20:08.521+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:20:08.563+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:20:08.563+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T13:20:08.971+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.548 seconds
+[2024-10-10T13:25:22.522+0700] {processor.py:157} INFO - Started process (PID=2548) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:25:22.632+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T13:25:22.641+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:25:22.640+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:25:22.972+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:25:23.017+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:25:23.016+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:25:23.080+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:25:23.080+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T13:25:23.478+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.962 seconds
+[2024-10-10T13:27:09.632+0700] {processor.py:157} INFO - Started process (PID=2696) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:27:09.672+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-10T13:27:09.675+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:27:09.674+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:27:09.713+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-10T13:27:09.756+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:27:09.756+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:27:09.807+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:27:09.806+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-10T13:27:09.942+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.319 seconds

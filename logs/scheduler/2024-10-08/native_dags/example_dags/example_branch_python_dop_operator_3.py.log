@@ -1,0 +1,4 @@
+[2024-10-08T19:46:46.277+0700] {processor.py:157} INFO - Started process (PID=5076) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-10-08T19:46:46.289+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2024-10-08T19:46:46.308+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:46:46.307+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-10-08T19:46:47.297+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py

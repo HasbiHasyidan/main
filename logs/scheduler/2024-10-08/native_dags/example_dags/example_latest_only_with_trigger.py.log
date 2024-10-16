@@ -1,0 +1,11 @@
+[2024-10-08T19:29:36.494+0700] {processor.py:157} INFO - Started process (PID=4030) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-08T19:29:36.495+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-10-08T19:29:36.507+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:36.507+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-08T19:29:36.550+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-08T19:29:37.368+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:37.367+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2024-10-08T19:29:37.567+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:37.567+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2024-10-08T19:29:37.668+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:37.667+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2024-10-08T19:29:37.669+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:37.668+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:29:37.706+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:37.704+0700] {dag.py:2747} INFO - Creating ORM DAG for latest_only_with_trigger
+[2024-10-08T19:29:37.739+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:37.738+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-10-08T08:29:37.738517+00:00, run_after=2024-10-08T12:29:37.738517+00:00
+[2024-10-08T19:29:38.049+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 1.576 seconds

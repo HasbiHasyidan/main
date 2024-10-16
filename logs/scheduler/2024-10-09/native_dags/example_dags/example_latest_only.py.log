@@ -1,0 +1,182 @@
+[2024-10-09T10:59:15.765+0700] {processor.py:157} INFO - Started process (PID=3951) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T10:59:15.766+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T10:59:15.768+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:59:15.767+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T10:59:15.904+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T10:59:16.517+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:59:16.517+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T10:59:16.817+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:59:16.817+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-08T23:59:16.816446+00:00, run_after=2024-10-09T03:59:16.816446+00:00
+[2024-10-09T10:59:17.275+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 1.518 seconds
+[2024-10-09T11:01:12.953+0700] {processor.py:157} INFO - Started process (PID=4130) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:01:12.988+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:01:12.990+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:12.990+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:01:13.028+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:01:13.065+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:13.064+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:01:13.322+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:13.322+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:01:13.321762+00:00, run_after=2024-10-09T04:01:13.321762+00:00
+[2024-10-09T11:01:13.486+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.539 seconds
+[2024-10-09T11:02:31.163+0700] {processor.py:157} INFO - Started process (PID=4202) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:02:31.190+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:02:31.191+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:31.191+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:02:31.202+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:02:31.239+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:31.239+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:02:31.284+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:31.284+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:02:31.283904+00:00, run_after=2024-10-09T04:02:31.283904+00:00
+[2024-10-09T11:02:31.418+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.260 seconds
+[2024-10-09T11:03:29.930+0700] {processor.py:157} INFO - Started process (PID=4256) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:03:29.950+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:03:29.952+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:29.951+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:03:29.964+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:03:30.001+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:30.000+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:03:30.043+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:30.043+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:03:30.043125+00:00, run_after=2024-10-09T04:03:30.043125+00:00
+[2024-10-09T11:03:30.271+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.346 seconds
+[2024-10-09T11:04:26.403+0700] {processor.py:157} INFO - Started process (PID=4312) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:04:26.425+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:04:26.427+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:04:26.427+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:04:26.439+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:04:26.475+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:04:26.475+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:04:26.522+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:04:26.521+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:04:26.521509+00:00, run_after=2024-10-09T04:04:26.521509+00:00
+[2024-10-09T11:04:26.785+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.389 seconds
+[2024-10-09T11:07:21.721+0700] {processor.py:157} INFO - Started process (PID=4612) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:07:21.732+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:07:21.735+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:07:21.734+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:07:21.752+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:07:21.788+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:07:21.788+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:07:21.834+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:07:21.833+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:07:21.833345+00:00, run_after=2024-10-09T04:07:21.833345+00:00
+[2024-10-09T11:07:22.002+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.287 seconds
+[2024-10-09T11:08:25.074+0700] {processor.py:157} INFO - Started process (PID=4681) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:08:25.080+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:08:25.082+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:25.081+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:08:25.095+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:08:25.132+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:25.131+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:08:25.174+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:25.174+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:08:25.173858+00:00, run_after=2024-10-09T04:08:25.173858+00:00
+[2024-10-09T11:08:25.305+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.238 seconds
+[2024-10-09T11:09:22.798+0700] {processor.py:157} INFO - Started process (PID=4736) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:09:22.806+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:09:22.809+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:22.809+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:09:22.823+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:09:22.859+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:22.859+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:09:22.904+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:22.903+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:09:22.903242+00:00, run_after=2024-10-09T04:09:22.903242+00:00
+[2024-10-09T11:09:23.025+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.234 seconds
+[2024-10-09T11:10:32.711+0700] {processor.py:157} INFO - Started process (PID=4814) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:10:32.746+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:10:32.748+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:32.748+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:10:32.763+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:10:32.800+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:32.799+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:10:32.845+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:32.845+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:10:32.844562+00:00, run_after=2024-10-09T04:10:32.844562+00:00
+[2024-10-09T11:10:33.011+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.305 seconds
+[2024-10-09T11:11:26.649+0700] {processor.py:157} INFO - Started process (PID=4871) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:11:26.705+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:11:26.708+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:26.708+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:11:26.721+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:11:26.758+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:26.757+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:11:26.800+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:26.800+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:11:26.800011+00:00, run_after=2024-10-09T04:11:26.800011+00:00
+[2024-10-09T11:11:26.936+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.294 seconds
+[2024-10-09T11:12:19.677+0700] {processor.py:157} INFO - Started process (PID=4929) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:12:19.691+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:12:19.694+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:19.693+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:12:19.709+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:12:19.746+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:19.746+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:12:19.791+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:19.791+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:12:19.791031+00:00, run_after=2024-10-09T04:12:19.791031+00:00
+[2024-10-09T11:12:19.914+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.243 seconds
+[2024-10-09T11:13:12.836+0700] {processor.py:157} INFO - Started process (PID=4980) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:13:12.838+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:13:12.839+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:12.839+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:13:12.850+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:13:12.886+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:12.886+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:13:12.929+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:12.929+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:13:12.928838+00:00, run_after=2024-10-09T04:13:12.928838+00:00
+[2024-10-09T11:13:13.095+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.266 seconds
+[2024-10-09T11:14:05.643+0700] {processor.py:157} INFO - Started process (PID=5037) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:14:05.672+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:14:05.675+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:05.674+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:14:05.688+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:14:05.724+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:05.724+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:14:05.770+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:05.769+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:14:05.769390+00:00, run_after=2024-10-09T04:14:05.769390+00:00
+[2024-10-09T11:14:05.918+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.282 seconds
+[2024-10-09T11:16:08.773+0700] {processor.py:157} INFO - Started process (PID=5304) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:16:08.788+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:16:08.790+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:08.790+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:16:08.816+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:16:08.879+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:08.879+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:16:08.950+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:08.950+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:16:08.949959+00:00, run_after=2024-10-09T04:16:08.949959+00:00
+[2024-10-09T11:16:09.121+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.355 seconds
+[2024-10-09T11:17:17.994+0700] {processor.py:157} INFO - Started process (PID=5375) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:17:18.006+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:17:18.008+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:18.008+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:17:18.030+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:17:18.108+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:18.107+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:17:18.202+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:18.201+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:17:18.199258+00:00, run_after=2024-10-09T04:17:18.199258+00:00
+[2024-10-09T11:17:18.390+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.405 seconds
+[2024-10-09T11:18:27.056+0700] {processor.py:157} INFO - Started process (PID=5441) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:18:27.090+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:18:27.094+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:27.094+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:18:27.118+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:18:27.183+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:27.183+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:18:27.260+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:27.260+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:18:27.259606+00:00, run_after=2024-10-09T04:18:27.259606+00:00
+[2024-10-09T11:18:27.436+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.388 seconds
+[2024-10-09T11:19:29.418+0700] {processor.py:157} INFO - Started process (PID=5506) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:19:29.443+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:19:29.445+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:19:29.444+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:19:29.464+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:19:29.539+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:19:29.538+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:19:29.610+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:19:29.610+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:19:29.609343+00:00, run_after=2024-10-09T04:19:29.609343+00:00
+[2024-10-09T11:19:30.003+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.593 seconds
+[2024-10-09T11:20:34.676+0700] {processor.py:157} INFO - Started process (PID=5588) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:20:34.745+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:20:34.747+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:20:34.747+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:20:34.772+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:20:34.857+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:20:34.855+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:20:34.949+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:20:34.949+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:20:34.948449+00:00, run_after=2024-10-09T04:20:34.948449+00:00
+[2024-10-09T11:20:35.133+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.466 seconds
+[2024-10-09T11:21:43.342+0700] {processor.py:157} INFO - Started process (PID=5651) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:21:43.358+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:21:43.360+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:43.360+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:21:43.384+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:21:43.446+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:43.445+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:21:43.529+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:43.528+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:21:43.528259+00:00, run_after=2024-10-09T04:21:43.528259+00:00
+[2024-10-09T11:21:43.691+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.358 seconds
+[2024-10-09T11:22:44.743+0700] {processor.py:157} INFO - Started process (PID=5713) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:22:44.768+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:22:44.770+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:44.770+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:22:44.804+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:22:44.884+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:44.884+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:22:44.967+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:44.967+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:22:44.964788+00:00, run_after=2024-10-09T04:22:44.964788+00:00
+[2024-10-09T11:22:45.158+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.422 seconds
+[2024-10-09T11:23:52.245+0700] {processor.py:157} INFO - Started process (PID=5781) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:23:52.264+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:23:52.265+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:52.265+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:23:52.294+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:23:52.365+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:52.365+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:23:52.465+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:52.465+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:23:52.464535+00:00, run_after=2024-10-09T04:23:52.464535+00:00
+[2024-10-09T11:23:52.630+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.399 seconds
+[2024-10-09T11:24:59.789+0700] {processor.py:157} INFO - Started process (PID=5848) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:24:59.825+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:24:59.829+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:59.828+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:24:59.846+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:24:59.909+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:59.909+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:24:59.989+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:59.988+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:24:59.987877+00:00, run_after=2024-10-09T04:24:59.987877+00:00
+[2024-10-09T11:25:00.159+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.383 seconds
+[2024-10-09T11:28:25.908+0700] {processor.py:157} INFO - Started process (PID=6007) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:28:25.965+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:28:25.967+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:28:25.967+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:28:25.996+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:28:26.067+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:28:26.066+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:28:26.138+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:28:26.136+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:28:26.135902+00:00, run_after=2024-10-09T04:28:26.135902+00:00
+[2024-10-09T11:28:26.353+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.465 seconds
+[2024-10-09T11:31:14.275+0700] {processor.py:157} INFO - Started process (PID=6135) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:31:14.374+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:31:14.376+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:31:14.375+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:31:14.419+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:31:21.244+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:31:21.243+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:31:21.289+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:31:21.289+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:31:21.288613+00:00, run_after=2024-10-09T04:31:21.288613+00:00
+[2024-10-09T11:31:21.724+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 7.460 seconds
+[2024-10-09T11:34:48.308+0700] {processor.py:157} INFO - Started process (PID=6547) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:34:48.381+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:34:48.383+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:34:48.383+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:34:48.431+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:34:48.467+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:34:48.467+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:34:48.512+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:34:48.512+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:34:48.511625+00:00, run_after=2024-10-09T04:34:48.511625+00:00
+[2024-10-09T11:34:48.859+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.558 seconds
+[2024-10-09T11:37:04.854+0700] {processor.py:157} INFO - Started process (PID=6703) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:37:05.649+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-09T11:37:06.235+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:37:06.234+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:37:15.146+0700] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-09T11:37:31.007+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:37:31.007+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:37:49.632+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:37:49.631+0700] {dag.py:3486} INFO - Setting next_dagrun for latest_only to 2024-10-09T00:37:49.443423+00:00, run_after=2024-10-09T04:37:49.443423+00:00
+[2024-10-09T11:37:52.584+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 49.854 seconds

@@ -1,0 +1,224 @@
+[2024-10-09T10:58:23.447+0700] {processor.py:157} INFO - Started process (PID=3916) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T10:58:23.449+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T10:58:23.451+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:58:23.450+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T10:58:23.590+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T10:58:23.639+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:58:23.638+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T10:58:23.966+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:58:23.965+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T03:58:23.965202+00:00, run_after=2024-10-09T03:58:23.965202+00:00
+[2024-10-09T10:58:24.550+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 1.110 seconds
+[2024-10-09T11:00:26.357+0700] {processor.py:157} INFO - Started process (PID=4004) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:00:26.446+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:00:26.449+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:00:26.448+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:00:26.516+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:00:26.557+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:00:26.557+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:00:26.823+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:00:26.822+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:00:26.822353+00:00, run_after=2024-10-09T04:00:26.822353+00:00
+[2024-10-09T11:00:27.234+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.884 seconds
+[2024-10-09T11:01:36.142+0700] {processor.py:157} INFO - Started process (PID=4152) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:01:36.144+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:01:36.145+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:36.145+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:01:36.161+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:01:36.424+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:36.423+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:01:36.467+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:36.467+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:01:36.466676+00:00, run_after=2024-10-09T04:01:36.466676+00:00
+[2024-10-09T11:01:36.771+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.635 seconds
+[2024-10-09T11:02:43.855+0700] {processor.py:157} INFO - Started process (PID=4215) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:02:43.879+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:02:43.881+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:43.881+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:02:43.900+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:02:43.939+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:43.938+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:02:43.983+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:43.982+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:02:43.982392+00:00, run_after=2024-10-09T04:02:43.982392+00:00
+[2024-10-09T11:02:44.102+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.253 seconds
+[2024-10-09T11:03:41.861+0700] {processor.py:157} INFO - Started process (PID=4270) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:03:41.905+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:03:41.907+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:41.906+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:03:41.924+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:03:41.964+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:41.964+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:03:42.007+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:42.007+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:03:42.007102+00:00, run_after=2024-10-09T04:03:42.007102+00:00
+[2024-10-09T11:03:42.169+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.314 seconds
+[2024-10-09T11:05:25.637+0700] {processor.py:157} INFO - Started process (PID=4349) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:05:25.643+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:05:25.645+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:05:25.645+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:05:25.663+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:05:25.745+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:05:25.744+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:05:25.788+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:05:25.787+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:05:25.787197+00:00, run_after=2024-10-09T04:05:25.787197+00:00
+[2024-10-09T11:05:26.084+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.454 seconds
+[2024-10-09T11:06:57.824+0700] {processor.py:157} INFO - Started process (PID=4581) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:06:57.853+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:06:57.856+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:06:57.855+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:06:57.875+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:06:57.941+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:06:57.940+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:06:57.984+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:06:57.983+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:06:57.983192+00:00, run_after=2024-10-09T04:06:57.983192+00:00
+[2024-10-09T11:06:58.358+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.541 seconds
+[2024-10-09T11:08:02.239+0700] {processor.py:157} INFO - Started process (PID=4658) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:08:02.249+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:08:02.251+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:02.251+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:08:02.269+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:08:02.309+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:02.308+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:08:02.351+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:02.351+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:08:02.350610+00:00, run_after=2024-10-09T04:08:02.350610+00:00
+[2024-10-09T11:08:02.482+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.250 seconds
+[2024-10-09T11:09:00.283+0700] {processor.py:157} INFO - Started process (PID=4713) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:09:00.357+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:09:00.360+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:00.359+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:09:00.378+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:09:00.419+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:00.418+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:09:00.466+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:00.465+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:09:00.465304+00:00, run_after=2024-10-09T04:09:00.465304+00:00
+[2024-10-09T11:09:00.591+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.314 seconds
+[2024-10-09T11:09:53.563+0700] {processor.py:157} INFO - Started process (PID=4767) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:09:53.589+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:09:53.592+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:53.591+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:09:53.612+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:09:53.651+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:53.651+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:09:53.694+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:53.693+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:09:53.693112+00:00, run_after=2024-10-09T04:09:53.693112+00:00
+[2024-10-09T11:09:53.823+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.266 seconds
+[2024-10-09T11:10:44.476+0700] {processor.py:157} INFO - Started process (PID=4825) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:10:44.488+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:10:44.490+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:44.490+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:10:44.508+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:10:44.547+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:44.547+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:10:44.593+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:44.592+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:10:44.591892+00:00, run_after=2024-10-09T04:10:44.591892+00:00
+[2024-10-09T11:10:44.721+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.250 seconds
+[2024-10-09T11:11:37.770+0700] {processor.py:157} INFO - Started process (PID=4883) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:11:37.772+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:11:37.773+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:37.773+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:11:37.790+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:11:37.831+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:37.830+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:11:37.873+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:37.873+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:11:37.872950+00:00, run_after=2024-10-09T04:11:37.872950+00:00
+[2024-10-09T11:11:38.001+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.238 seconds
+[2024-10-09T11:12:31.175+0700] {processor.py:157} INFO - Started process (PID=4940) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:12:31.238+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:12:31.240+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:31.240+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:12:31.259+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:12:31.299+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:31.298+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:12:31.343+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:31.343+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:12:31.343052+00:00, run_after=2024-10-09T04:12:31.343052+00:00
+[2024-10-09T11:12:31.469+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.300 seconds
+[2024-10-09T11:13:24.525+0700] {processor.py:157} INFO - Started process (PID=4995) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:13:24.540+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:13:24.542+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:24.541+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:13:24.561+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:13:24.601+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:24.601+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:13:24.643+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:24.643+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:13:24.642863+00:00, run_after=2024-10-09T04:13:24.642863+00:00
+[2024-10-09T11:13:24.786+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.267 seconds
+[2024-10-09T11:14:22.092+0700] {processor.py:157} INFO - Started process (PID=5066) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:14:23.554+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:14:23.556+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:23.556+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:14:23.578+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:14:23.625+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:23.624+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:14:23.672+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:23.671+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:14:23.671122+00:00, run_after=2024-10-09T04:14:23.671122+00:00
+[2024-10-09T11:14:24.115+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 2.029 seconds
+[2024-10-09T11:15:49.257+0700] {processor.py:157} INFO - Started process (PID=5289) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:15:49.269+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:15:49.273+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:15:49.273+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:15:49.306+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:15:49.389+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:15:49.388+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:15:49.487+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:15:49.479+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:15:49.478906+00:00, run_after=2024-10-09T04:15:49.478906+00:00
+[2024-10-09T11:15:49.711+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.465 seconds
+[2024-10-09T11:16:40.871+0700] {processor.py:157} INFO - Started process (PID=5339) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:16:40.937+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:16:40.940+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:40.939+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:16:40.970+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:16:41.045+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:41.044+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:16:41.119+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:41.117+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:16:41.116953+00:00, run_after=2024-10-09T04:16:41.116953+00:00
+[2024-10-09T11:16:41.285+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.437 seconds
+[2024-10-09T11:17:50.289+0700] {processor.py:157} INFO - Started process (PID=5409) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:17:50.309+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:17:50.311+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:50.311+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:17:50.338+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:17:50.403+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:50.403+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:17:50.474+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:50.473+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:17:50.472522+00:00, run_after=2024-10-09T04:17:50.472522+00:00
+[2024-10-09T11:17:50.620+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.340 seconds
+[2024-10-09T11:18:57.488+0700] {processor.py:157} INFO - Started process (PID=5475) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:18:57.524+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:18:57.526+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:57.526+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:18:57.558+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:18:57.643+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:57.642+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:18:57.728+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:57.727+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:18:57.727100+00:00, run_after=2024-10-09T04:18:57.727100+00:00
+[2024-10-09T11:18:57.920+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.440 seconds
+[2024-10-09T11:19:59.026+0700] {processor.py:157} INFO - Started process (PID=5544) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:19:59.047+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:19:59.049+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:19:59.048+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:19:59.078+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:19:59.146+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:19:59.146+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:19:59.224+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:19:59.224+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:19:59.223610+00:00, run_after=2024-10-09T04:19:59.223610+00:00
+[2024-10-09T11:19:59.391+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.376 seconds
+[2024-10-09T11:21:06.217+0700] {processor.py:157} INFO - Started process (PID=5616) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:21:06.238+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:21:06.240+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:06.239+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:21:06.264+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:21:06.318+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:06.318+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:21:06.374+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:06.374+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:21:06.373471+00:00, run_after=2024-10-09T04:21:06.373471+00:00
+[2024-10-09T11:21:06.512+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.302 seconds
+[2024-10-09T11:22:11.730+0700] {processor.py:157} INFO - Started process (PID=5678) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:22:11.759+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:22:11.761+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:11.761+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:22:11.792+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:22:11.873+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:11.873+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:22:11.948+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:11.948+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:22:11.947497+00:00, run_after=2024-10-09T04:22:11.947497+00:00
+[2024-10-09T11:22:12.114+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.393 seconds
+[2024-10-09T11:23:14.215+0700] {processor.py:157} INFO - Started process (PID=5741) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:23:14.243+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:23:14.245+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:14.244+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:23:14.273+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:23:14.336+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:14.336+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:23:14.406+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:14.405+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:23:14.405011+00:00, run_after=2024-10-09T04:23:14.405011+00:00
+[2024-10-09T11:23:14.570+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.364 seconds
+[2024-10-09T11:24:20.533+0700] {processor.py:157} INFO - Started process (PID=5808) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:24:20.560+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:24:20.563+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:20.563+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:24:20.595+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:24:20.681+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:20.680+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:24:20.760+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:20.760+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:24:20.759571+00:00, run_after=2024-10-09T04:24:20.759571+00:00
+[2024-10-09T11:24:20.913+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.387 seconds
+[2024-10-09T11:25:30.006+0700] {processor.py:157} INFO - Started process (PID=5880) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:25:30.038+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:25:30.041+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:25:30.040+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:25:30.068+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:25:30.146+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:25:30.145+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:25:30.235+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:25:30.234+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:25:30.234241+00:00, run_after=2024-10-09T04:25:30.234241+00:00
+[2024-10-09T11:25:30.417+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.419 seconds
+[2024-10-09T11:27:32.195+0700] {processor.py:157} INFO - Started process (PID=5975) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:27:32.229+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:27:32.231+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:27:32.230+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:27:32.347+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:27:32.490+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:27:32.490+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:27:33.442+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:27:33.442+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:27:33.441875+00:00, run_after=2024-10-09T04:27:33.441875+00:00
+[2024-10-09T11:27:33.659+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 1.471 seconds
+[2024-10-09T11:29:15.719+0700] {processor.py:157} INFO - Started process (PID=6043) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:29:15.789+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:29:15.792+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:29:15.791+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:29:15.825+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:29:16.093+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:29:16.093+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:29:16.516+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:29:16.515+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:29:16.514460+00:00, run_after=2024-10-09T04:29:16.514460+00:00
+[2024-10-09T11:29:16.851+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 1.146 seconds
+[2024-10-09T11:30:49.554+0700] {processor.py:157} INFO - Started process (PID=6119) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:30:49.622+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:30:49.625+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:30:49.624+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:30:49.688+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:30:50.602+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:30:50.601+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:30:50.648+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:30:50.648+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:30:50.647981+00:00, run_after=2024-10-09T04:30:50.647981+00:00
+[2024-10-09T11:30:51.544+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 1.996 seconds
+[2024-10-09T11:33:48.176+0700] {processor.py:157} INFO - Started process (PID=6471) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:33:48.392+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:33:48.394+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:33:48.393+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:33:48.469+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:33:48.971+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:33:48.970+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:33:49.021+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:33:49.021+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:33:49.020815+00:00, run_after=2024-10-09T04:33:49.020815+00:00
+[2024-10-09T11:33:50.114+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 1.947 seconds
+[2024-10-09T11:35:23.564+0700] {processor.py:157} INFO - Started process (PID=6589) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:35:23.782+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:35:23.785+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:35:23.784+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:35:23.804+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:35:23.845+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:35:23.844+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:35:23.889+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:35:23.888+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:35:23.888088+00:00, run_after=2024-10-09T04:35:23.888088+00:00
+[2024-10-09T11:35:24.230+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.672 seconds
+[2024-10-09T11:36:26.417+0700] {processor.py:157} INFO - Started process (PID=6649) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:36:26.462+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:36:26.464+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:36:26.464+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:36:26.484+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:36:26.598+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:36:26.598+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:36:26.651+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:36:26.650+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:36:26.650032+00:00, run_after=2024-10-09T04:36:26.650032+00:00
+[2024-10-09T11:36:26.962+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.552 seconds
+[2024-10-09T11:38:58.689+0700] {processor.py:157} INFO - Started process (PID=6856) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:38:59.335+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-09T11:38:59.337+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:38:59.337+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:38:59.364+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-09T11:38:59.556+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:38:59.555+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:39:00.277+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:39:00.277+0700] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2024-10-08T04:39:00.276436+00:00, run_after=2024-10-09T04:39:00.276436+00:00
+[2024-10-09T11:39:00.859+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 2.184 seconds

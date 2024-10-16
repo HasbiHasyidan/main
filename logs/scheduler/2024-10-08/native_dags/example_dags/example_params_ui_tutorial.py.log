@@ -1,0 +1,11 @@
+[2024-10-08T19:28:44.668+0700] {processor.py:157} INFO - Started process (PID=3978) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-10-08T19:28:44.670+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-10-08T19:28:44.672+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:44.672+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-10-08T19:28:46.156+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-10-08T19:28:53.250+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:53.249+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_params_ui_tutorial
+[2024-10-08T19:28:53.428+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:53.427+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_params_ui_tutorial
+[2024-10-08T19:28:53.668+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:53.667+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_params_ui_tutorial
+[2024-10-08T19:28:53.670+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:53.669+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:28:53.698+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:53.698+0700] {dag.py:2747} INFO - Creating ORM DAG for example_params_ui_tutorial
+[2024-10-08T19:28:53.722+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:53.722+0700] {dag.py:3486} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-10-08T19:28:54.087+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 9.428 seconds

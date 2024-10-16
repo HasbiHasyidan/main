@@ -1,0 +1,273 @@
+[2024-10-10T11:42:21.111+0700] {processor.py:157} INFO - Started process (PID=2722) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:42:21.112+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:42:21.114+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:21.113+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:42:21.506+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:42:22.152+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:22.151+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:42:22.962+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:42:22.962+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:42:23.219+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 2.115 seconds
+[2024-10-10T11:47:36.698+0700] {processor.py:157} INFO - Started process (PID=2857) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:47:36.780+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:47:36.783+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:47:36.782+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:47:37.210+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:47:37.895+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:47:37.894+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:47:37.940+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:47:37.940+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:47:38.325+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 1.633 seconds
+[2024-10-10T11:49:01.146+0700] {processor.py:157} INFO - Started process (PID=2926) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:49:01.166+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:49:01.169+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:01.168+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:49:01.180+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:49:01.217+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:01.217+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:49:01.261+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:01.261+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:49:01.848+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.709 seconds
+[2024-10-10T11:49:55.110+0700] {processor.py:157} INFO - Started process (PID=2967) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:49:55.338+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:49:55.341+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:55.340+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:49:55.353+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:49:55.421+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:55.420+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:49:55.995+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:49:55.995+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:49:56.358+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 1.254 seconds
+[2024-10-10T11:52:40.838+0700] {processor.py:157} INFO - Started process (PID=3280) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:52:40.863+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:52:40.866+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:40.866+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:52:40.879+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:52:40.921+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:40.921+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:52:40.969+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:52:40.969+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:52:41.263+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.431 seconds
+[2024-10-10T11:53:36.855+0700] {processor.py:157} INFO - Started process (PID=3358) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:53:36.857+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:53:36.858+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:36.858+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:53:36.867+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:53:36.905+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:36.904+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:53:36.949+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:36.948+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:53:37.078+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.229 seconds
+[2024-10-10T11:54:34.377+0700] {processor.py:157} INFO - Started process (PID=3418) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:54:34.445+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:54:34.447+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:34.447+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:54:34.459+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:54:34.633+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:34.633+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:54:34.675+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:34.675+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:54:34.819+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.450 seconds
+[2024-10-10T11:55:39.861+0700] {processor.py:157} INFO - Started process (PID=3500) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:55:39.885+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:55:39.887+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:39.887+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:55:39.900+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:55:40.177+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:40.176+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:55:40.219+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:40.218+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:55:40.447+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.593 seconds
+[2024-10-10T11:56:38.859+0700] {processor.py:157} INFO - Started process (PID=3563) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:56:38.884+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:56:38.887+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:38.886+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:56:38.900+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:56:38.937+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:38.936+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:56:38.981+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:38.981+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:56:39.120+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.266 seconds
+[2024-10-10T11:57:36.036+0700] {processor.py:157} INFO - Started process (PID=3625) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:57:36.056+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:57:36.059+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:36.059+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:57:36.072+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:57:36.110+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:36.110+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:57:36.151+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:36.151+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:57:36.283+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.254 seconds
+[2024-10-10T11:58:40.252+0700] {processor.py:157} INFO - Started process (PID=3699) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:58:40.303+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:58:40.308+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:40.307+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:58:40.319+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:58:40.365+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:40.365+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:58:40.428+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:40.428+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:58:40.569+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.323 seconds
+[2024-10-10T11:59:17.560+0700] {processor.py:157} INFO - Started process (PID=3746) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:59:17.591+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T11:59:17.593+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:17.593+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:59:17.605+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T11:59:17.645+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:17.645+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:59:17.690+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:17.689+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T11:59:17.886+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.332 seconds
+[2024-10-10T12:00:14.086+0700] {processor.py:157} INFO - Started process (PID=3802) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:00:14.115+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:00:14.116+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:14.116+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:00:14.128+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:00:14.165+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:14.164+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:00:14.208+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:00:14.208+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:00:14.326+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.246 seconds
+[2024-10-10T12:01:09.472+0700] {processor.py:157} INFO - Started process (PID=3860) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:01:09.495+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:01:09.498+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:09.497+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:01:09.512+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:01:09.549+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:09.548+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:01:09.590+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:09.590+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:01:09.716+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.249 seconds
+[2024-10-10T12:02:00.204+0700] {processor.py:157} INFO - Started process (PID=3914) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:02:00.215+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:02:00.218+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:00.217+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:02:00.230+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:02:00.268+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:00.267+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:02:00.311+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:00.311+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:02:00.432+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.234 seconds
+[2024-10-10T12:02:50.826+0700] {processor.py:157} INFO - Started process (PID=3973) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:02:50.829+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:02:50.831+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:50.831+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:02:50.841+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:02:50.879+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:50.879+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:02:50.921+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:02:50.920+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:02:51.044+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.225 seconds
+[2024-10-10T12:03:42.945+0700] {processor.py:157} INFO - Started process (PID=4032) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:03:42.951+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:03:42.953+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:42.953+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:03:42.964+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:03:43.001+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:43.001+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:03:43.045+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:43.045+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:03:43.176+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.237 seconds
+[2024-10-10T12:04:36.195+0700] {processor.py:157} INFO - Started process (PID=4145) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:04:36.197+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:04:36.198+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:36.198+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:04:36.210+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:04:36.334+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:36.333+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:04:36.376+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:36.375+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:04:36.511+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.322 seconds
+[2024-10-10T12:05:30.591+0700] {processor.py:157} INFO - Started process (PID=4200) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:05:30.612+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:05:30.615+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:30.614+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:05:30.626+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:05:30.664+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:30.664+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:05:30.708+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:30.708+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:05:30.864+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.279 seconds
+[2024-10-10T12:06:25.899+0700] {processor.py:157} INFO - Started process (PID=4262) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:06:25.901+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:06:25.902+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:25.902+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:06:25.911+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:06:25.949+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:25.948+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:06:25.990+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:25.990+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:06:26.155+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.263 seconds
+[2024-10-10T12:07:21.194+0700] {processor.py:157} INFO - Started process (PID=4320) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:07:21.215+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:07:21.217+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:21.217+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:07:21.229+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:07:21.266+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:21.266+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:07:21.311+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:21.311+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:07:21.478+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.291 seconds
+[2024-10-10T12:08:19.966+0700] {processor.py:157} INFO - Started process (PID=4389) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:08:19.968+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:08:19.969+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:19.969+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:08:19.979+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:08:20.016+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:20.015+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:08:20.058+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:20.057+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:08:20.203+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.244 seconds
+[2024-10-10T12:09:14.518+0700] {processor.py:157} INFO - Started process (PID=4446) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:09:14.541+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:09:14.543+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:14.543+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:09:14.556+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:09:14.593+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:14.592+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:09:14.638+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:14.637+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:09:14.781+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.270 seconds
+[2024-10-10T12:10:06.210+0700] {processor.py:157} INFO - Started process (PID=4501) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:10:06.215+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:10:06.217+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:06.216+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:10:06.228+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:10:06.266+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:06.265+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:10:06.307+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:06.307+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:10:06.418+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.215 seconds
+[2024-10-10T12:10:57.494+0700] {processor.py:157} INFO - Started process (PID=4565) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:10:57.541+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:10:57.543+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:57.543+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:10:57.555+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:10:57.652+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:57.652+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:10:57.695+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:57.695+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:10:57.818+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.330 seconds
+[2024-10-10T12:11:52.450+0700] {processor.py:157} INFO - Started process (PID=4630) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:11:52.452+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:11:52.453+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:52.453+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:11:52.462+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:11:52.501+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:52.501+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:11:52.543+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:11:52.543+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:11:52.675+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.232 seconds
+[2024-10-10T12:12:46.241+0700] {processor.py:157} INFO - Started process (PID=4691) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:12:46.280+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:12:46.283+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:46.282+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:12:46.295+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:12:46.333+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:46.333+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:12:46.376+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:46.375+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:12:46.502+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.268 seconds
+[2024-10-10T12:13:36.097+0700] {processor.py:157} INFO - Started process (PID=4751) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:13:36.099+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:13:36.100+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:36.100+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:13:36.109+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:13:36.146+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:36.146+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:13:36.188+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:36.187+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:13:36.336+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.245 seconds
+[2024-10-10T12:14:25.360+0700] {processor.py:157} INFO - Started process (PID=4801) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:14:25.362+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:14:25.363+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:25.363+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:14:25.372+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:14:25.410+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:25.410+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:14:25.453+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:25.452+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:14:25.662+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.309 seconds
+[2024-10-10T12:15:16.858+0700] {processor.py:157} INFO - Started process (PID=4867) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:15:16.861+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:15:16.863+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:16.862+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:15:16.875+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:15:16.916+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:16.915+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:15:16.960+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:16.959+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:15:17.108+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.258 seconds
+[2024-10-10T12:16:08.427+0700] {processor.py:157} INFO - Started process (PID=4925) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:16:08.431+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:16:08.433+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:08.433+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:16:08.443+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:16:08.482+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:08.482+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:16:08.525+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:08.525+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:16:08.736+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.315 seconds
+[2024-10-10T12:17:04.173+0700] {processor.py:157} INFO - Started process (PID=4994) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:17:04.204+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:17:04.206+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:04.206+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:17:04.219+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:17:04.256+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:04.255+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:04.297+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:04.297+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:17:04.442+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.276 seconds
+[2024-10-10T12:17:59.273+0700] {processor.py:157} INFO - Started process (PID=5059) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:17:59.321+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:17:59.323+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:59.323+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:17:59.336+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:17:59.373+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:59.373+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:59.415+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:59.414+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:17:59.547+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.280 seconds
+[2024-10-10T12:18:52.005+0700] {processor.py:157} INFO - Started process (PID=5117) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:18:52.007+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:18:52.008+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:52.008+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:18:52.017+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:18:52.054+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:52.054+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:18:52.098+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:52.097+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:18:52.251+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.253 seconds
+[2024-10-10T12:19:43.269+0700] {processor.py:157} INFO - Started process (PID=5174) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:19:43.298+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:19:43.301+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:43.300+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:19:43.314+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:19:43.352+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:43.351+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:19:43.394+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:19:43.393+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:19:43.521+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.258 seconds
+[2024-10-10T12:20:39.532+0700] {processor.py:157} INFO - Started process (PID=5239) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:20:39.540+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T12:20:39.541+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:39.541+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:20:39.553+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T12:20:39.589+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:39.589+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:20:39.633+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:39.633+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T12:20:39.817+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.291 seconds
+[2024-10-10T13:19:52.786+0700] {processor.py:157} INFO - Started process (PID=1931) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:19:52.821+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T13:19:52.823+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:19:52.823+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:19:52.919+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:19:53.069+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:19:53.068+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:19:54.440+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:19:54.439+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T13:19:54.686+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 1.906 seconds
+[2024-10-10T13:24:55.453+0700] {processor.py:157} INFO - Started process (PID=2529) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:24:55.513+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T13:24:55.517+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:24:55.516+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:24:55.534+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:24:56.065+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:24:56.065+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:24:56.122+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:24:56.121+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T13:24:56.416+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.972 seconds
+[2024-10-10T13:26:48.895+0700] {processor.py:157} INFO - Started process (PID=2679) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:26:48.936+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T13:26:48.939+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:26:48.939+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:26:48.971+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T13:26:49.094+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:26:49.094+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:26:49.181+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:26:49.181+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T13:26:49.520+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.638 seconds

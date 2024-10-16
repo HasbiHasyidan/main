@@ -1,0 +1,210 @@
+[2024-10-10T11:48:46.613+0700] {processor.py:157} INFO - Started process (PID=2915) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:48:46.615+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:48:46.616+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:46.616+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:48:46.660+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:48:46.700+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:46.700+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:48:46.746+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:48:46.745+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:48:47.116+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.510 seconds
+[2024-10-10T11:51:58.753+0700] {processor.py:157} INFO - Started process (PID=3182) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:51:58.777+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:51:58.779+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:51:58.778+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:51:58.855+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:51:59.274+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:51:59.274+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:51:59.333+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:51:59.333+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:51:59.710+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.977 seconds
+[2024-10-10T11:53:31.055+0700] {processor.py:157} INFO - Started process (PID=3349) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:53:31.079+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:53:31.081+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:31.081+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:53:31.099+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:53:31.140+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:31.140+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:53:31.190+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:53:31.189+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:53:31.574+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.524 seconds
+[2024-10-10T11:54:29.075+0700] {processor.py:157} INFO - Started process (PID=3411) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:54:29.131+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:54:29.134+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:29.133+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:54:29.152+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:54:29.278+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:29.277+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:54:29.323+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:54:29.322+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:54:29.483+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.414 seconds
+[2024-10-10T11:55:34.259+0700] {processor.py:157} INFO - Started process (PID=3491) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:55:34.298+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:55:34.302+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:34.301+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:55:34.324+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:55:34.369+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:34.368+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:55:34.419+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:55:34.419+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:55:34.574+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.321 seconds
+[2024-10-10T11:56:33.854+0700] {processor.py:157} INFO - Started process (PID=3557) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:56:33.874+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:56:33.877+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:33.876+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:56:33.893+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:56:33.939+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:33.939+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:56:33.991+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:56:33.991+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:56:34.202+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.354 seconds
+[2024-10-10T11:57:32.449+0700] {processor.py:157} INFO - Started process (PID=3620) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:57:32.468+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:57:32.470+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:32.470+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:57:32.489+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:57:32.534+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:32.534+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:57:32.580+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:57:32.579+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:57:32.740+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.298 seconds
+[2024-10-10T11:58:33.950+0700] {processor.py:157} INFO - Started process (PID=3694) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:58:33.965+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:58:33.968+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:33.968+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:58:33.985+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:58:34.028+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:34.028+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:58:34.080+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:58:34.079+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:58:34.416+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.472 seconds
+[2024-10-10T11:59:42.989+0700] {processor.py:157} INFO - Started process (PID=3769) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:59:43.010+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T11:59:43.011+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:43.011+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:59:43.025+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T11:59:43.064+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:43.064+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T11:59:43.112+0700] {logging_mixin.py:149} INFO - [2024-10-10T11:59:43.112+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T11:59:43.227+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.244 seconds
+[2024-10-10T12:01:01.196+0700] {processor.py:157} INFO - Started process (PID=3851) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:01:01.224+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:01:01.227+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:01.226+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:01:01.245+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:01:01.285+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:01.284+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:01:01.330+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:01.330+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:01:01.496+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.306 seconds
+[2024-10-10T12:01:56.866+0700] {processor.py:157} INFO - Started process (PID=3911) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:01:56.878+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:01:56.880+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:56.879+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:01:56.894+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:01:56.934+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:56.934+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:01:56.982+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:01:56.982+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:01:57.100+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.240 seconds
+[2024-10-10T12:03:12.088+0700] {processor.py:157} INFO - Started process (PID=3995) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:03:12.099+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:03:12.101+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:12.100+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:03:12.118+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:03:12.158+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:12.157+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:03:12.206+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:03:12.206+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:03:12.324+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.243 seconds
+[2024-10-10T12:04:32.144+0700] {processor.py:157} INFO - Started process (PID=4139) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:04:32.164+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:04:32.167+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:32.166+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:04:32.186+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:04:32.226+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:32.225+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:04:32.271+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:04:32.270+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:04:32.391+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.254 seconds
+[2024-10-10T12:05:51.358+0700] {processor.py:157} INFO - Started process (PID=4226) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:05:51.377+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:05:51.379+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:51.378+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:05:51.392+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:05:51.433+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:51.433+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:05:51.479+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:05:51.478+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:05:51.636+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.285 seconds
+[2024-10-10T12:06:46.920+0700] {processor.py:157} INFO - Started process (PID=4287) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:06:46.934+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:06:46.937+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:46.936+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:06:46.953+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:06:46.993+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:46.992+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:06:47.038+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:06:47.037+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:06:47.157+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.243 seconds
+[2024-10-10T12:07:45.213+0700] {processor.py:157} INFO - Started process (PID=4347) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:07:45.224+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:07:45.227+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:45.227+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:07:45.244+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:07:45.285+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:45.284+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:07:45.330+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:07:45.330+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:07:45.448+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.242 seconds
+[2024-10-10T12:08:43.235+0700] {processor.py:157} INFO - Started process (PID=4413) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:08:43.262+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:08:43.264+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:43.263+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:08:43.277+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:08:43.318+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:43.317+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:08:43.366+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:08:43.365+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:08:43.496+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.267 seconds
+[2024-10-10T12:09:37.796+0700] {processor.py:157} INFO - Started process (PID=4471) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:09:37.818+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:09:37.821+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:37.821+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:09:37.837+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:09:37.877+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:37.877+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:09:37.922+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:09:37.922+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:09:38.060+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.271 seconds
+[2024-10-10T12:10:53.583+0700] {processor.py:157} INFO - Started process (PID=4562) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:10:53.610+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:10:53.612+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:53.611+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:10:53.628+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:10:53.668+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:53.667+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:10:53.715+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:10:53.714+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:10:53.842+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.265 seconds
+[2024-10-10T12:12:13.983+0700] {processor.py:157} INFO - Started process (PID=4654) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:12:14.004+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:12:14.007+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:14.006+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:12:14.026+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:12:14.065+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:14.065+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:12:14.110+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:12:14.109+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:12:14.235+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.259 seconds
+[2024-10-10T12:13:07.521+0700] {processor.py:157} INFO - Started process (PID=4713) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:13:07.552+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:13:07.555+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:07.554+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:13:07.572+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:13:07.612+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:07.611+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:13:07.656+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:13:07.656+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:13:07.771+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.257 seconds
+[2024-10-10T12:14:21.277+0700] {processor.py:157} INFO - Started process (PID=4798) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:14:21.332+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:14:21.334+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:21.334+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:14:21.352+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:14:21.391+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:21.390+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:14:21.437+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:14:21.437+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:14:21.550+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.281 seconds
+[2024-10-10T12:15:37.767+0700] {processor.py:157} INFO - Started process (PID=4893) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:15:37.797+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:15:37.800+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:37.800+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:15:37.818+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:15:37.861+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:37.860+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:15:37.913+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:15:37.913+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:15:38.044+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.283 seconds
+[2024-10-10T12:16:33.591+0700] {processor.py:157} INFO - Started process (PID=4953) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:16:33.626+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:16:33.629+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:33.628+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:16:33.648+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:16:33.691+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:33.690+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:16:33.740+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:16:33.740+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:16:33.862+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.278 seconds
+[2024-10-10T12:17:29.880+0700] {processor.py:157} INFO - Started process (PID=5019) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:17:29.882+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:17:29.884+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:29.883+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:17:29.897+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:17:29.936+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:29.936+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:17:29.983+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:17:29.983+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:17:30.123+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.249 seconds
+[2024-10-10T12:18:49.139+0700] {processor.py:157} INFO - Started process (PID=5115) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:18:49.168+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:18:49.170+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:49.169+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:18:49.186+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:18:49.225+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:49.225+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:18:49.272+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:18:49.272+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:18:49.384+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.251 seconds
+[2024-10-10T12:20:09.077+0700] {processor.py:157} INFO - Started process (PID=5201) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:20:09.108+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:20:09.111+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:09.110+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:20:09.128+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:20:09.168+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:09.167+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:20:09.213+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:20:09.212+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:20:09.339+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.269 seconds
+[2024-10-10T12:21:05.159+0700] {processor.py:157} INFO - Started process (PID=5272) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:21:05.169+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T12:21:05.172+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:05.171+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:21:05.189+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T12:21:05.233+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:05.233+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T12:21:05.285+0700] {logging_mixin.py:149} INFO - [2024-10-10T12:21:05.284+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T12:21:05.406+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.257 seconds
+[2024-10-10T13:22:41.572+0700] {processor.py:157} INFO - Started process (PID=2383) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T13:22:41.596+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T13:22:41.598+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:22:41.598+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T13:22:41.616+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T13:22:41.953+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:22:41.952+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:22:42.004+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:22:42.004+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T13:22:42.170+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.605 seconds
+[2024-10-10T13:26:38.017+0700] {processor.py:157} INFO - Started process (PID=2659) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T13:26:38.093+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-10-10T13:26:38.096+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:26:38.096+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T13:26:38.148+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-10-10T13:26:38.687+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:26:38.687+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-10T13:26:38.773+0700] {logging_mixin.py:149} INFO - [2024-10-10T13:26:38.773+0700] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2024-10-09T00:00:00+00:00, run_after=2024-10-10T00:00:00+00:00
+[2024-10-10T13:26:39.223+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 1.221 seconds

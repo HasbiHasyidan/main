@@ -1,0 +1,11 @@
+[2024-10-08T19:26:38.464+0700] {processor.py:157} INFO - Started process (PID=3896) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-08T19:26:38.467+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-10-08T19:26:38.469+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:26:38.468+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-08T19:26:39.380+0700] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-08T19:26:45.216+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:26:45.216+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2024-10-08T19:26:45.524+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:26:45.523+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2024-10-08T19:26:45.989+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:26:45.989+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2024-10-08T19:26:46.033+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:26:46.033+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:26:46.156+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:26:46.155+0700] {dag.py:2747} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2024-10-08T19:27:19.341+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:19.340+0700] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-10-08T19:27:19.728+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 41.271 seconds

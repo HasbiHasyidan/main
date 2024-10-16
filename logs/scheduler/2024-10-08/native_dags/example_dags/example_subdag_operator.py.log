@@ -1,0 +1,18 @@
+[2024-10-08T19:28:06.241+0700] {processor.py:157} INFO - Started process (PID=3936) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-10-08T19:28:06.243+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-10-08T19:28:06.245+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:06.244+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-10-08T19:28:07.152+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-10-08T19:28:08.116+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:08.115+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2024-10-08T19:28:08.394+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:08.393+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2024-10-08T19:28:08.927+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:08.927+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2024-10-08T19:28:08.929+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:08.928+0700] {dag.py:2726} INFO - Sync 3 DAGs
+[2024-10-08T19:28:09.281+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.281+0700] {dag.py:2747} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2024-10-08T19:28:09.283+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.282+0700] {dag.py:2747} INFO - Creating ORM DAG for example_subdag_operator
+[2024-10-08T19:28:09.284+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.284+0700] {dag.py:2747} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2024-10-08T19:28:09.312+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.312+0700] {dag.py:3486} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2024-10-08T19:28:09.314+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.313+0700] {dag.py:3486} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-10-08T19:28:09.315+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.315+0700] {dag.py:3486} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-10-08T19:28:09.340+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.339+0700] {dag.py:2726} INFO - Sync 2 DAGs
+[2024-10-08T19:28:09.631+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.630+0700] {dag.py:3486} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-10-08T19:28:09.643+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:09.642+0700] {dag.py:3486} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-10-08T19:28:10.082+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 3.847 seconds

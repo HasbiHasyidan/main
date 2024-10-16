@@ -1,0 +1,16 @@
+[2024-10-08T19:29:22.993+0700] {processor.py:157} INFO - Started process (PID=4013) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-10-08T19:29:22.997+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2024-10-08T19:29:23.000+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:23.000+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-10-08T19:29:23.045+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_external_task_marker_child', 'example_external_task_marker_parent']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-10-08T19:29:25.211+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.211+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_external_task_marker_child
+[2024-10-08T19:29:25.311+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.311+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_external_task_marker_child
+[2024-10-08T19:29:25.390+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.389+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_external_task_marker_child
+[2024-10-08T19:29:25.605+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.604+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_external_task_marker_parent
+[2024-10-08T19:29:25.691+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.690+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_external_task_marker_parent
+[2024-10-08T19:29:25.792+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.791+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_external_task_marker_parent
+[2024-10-08T19:29:25.793+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.793+0700] {dag.py:2726} INFO - Sync 2 DAGs
+[2024-10-08T19:29:25.822+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.821+0700] {dag.py:2747} INFO - Creating ORM DAG for example_external_task_marker_parent
+[2024-10-08T19:29:25.823+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.823+0700] {dag.py:2747} INFO - Creating ORM DAG for example_external_task_marker_child
+[2024-10-08T19:29:25.850+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.849+0700] {dag.py:3486} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2024-10-08T19:29:25.852+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:25.851+0700] {dag.py:3486} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2024-10-08T19:29:26.132+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 3.148 seconds

@@ -1,0 +1,11 @@
+[2024-10-08T19:28:55.901+0700] {processor.py:157} INFO - Started process (PID=3995) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-10-08T19:28:55.903+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-10-08T19:28:55.905+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:28:55.904+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-10-08T19:28:55.943+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-10-08T19:29:05.846+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:05.845+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_passing_params_via_test_command
+[2024-10-08T19:29:05.994+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:05.993+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_passing_params_via_test_command
+[2024-10-08T19:29:06.157+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:06.156+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_passing_params_via_test_command
+[2024-10-08T19:29:06.158+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:06.158+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:29:06.185+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:06.184+0700] {dag.py:2747} INFO - Creating ORM DAG for example_passing_params_via_test_command
+[2024-10-08T19:29:06.221+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:29:06.221+0700] {dag.py:3486} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-10-08T12:28:00+00:00, run_after=2024-10-08T12:29:00+00:00
+[2024-10-08T19:29:06.459+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 10.564 seconds

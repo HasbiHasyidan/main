@@ -1,0 +1,224 @@
+[2024-10-09T10:58:25.741+0700] {processor.py:157} INFO - Started process (PID=3918) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T10:58:25.743+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T10:58:25.744+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:58:25.744+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T10:58:25.845+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T10:58:25.891+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:58:25.891+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T10:58:25.941+0700] {logging_mixin.py:149} INFO - [2024-10-09T10:58:25.941+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T03:58:25.940799+00:00, run_after=2024-10-09T03:58:25.940799+00:00
+[2024-10-09T10:58:26.793+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.058 seconds
+[2024-10-09T11:00:28.314+0700] {processor.py:157} INFO - Started process (PID=4007) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:00:28.392+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:00:28.394+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:00:28.394+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:00:28.495+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:00:28.535+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:00:28.534+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:00:28.793+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:00:28.793+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:00:28.793075+00:00, run_after=2024-10-09T04:00:28.793075+00:00
+[2024-10-09T11:00:29.082+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.776 seconds
+[2024-10-09T11:01:37.929+0700] {processor.py:157} INFO - Started process (PID=4154) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:01:37.948+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:01:37.950+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:37.950+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:01:37.971+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:01:38.210+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:38.209+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:01:38.248+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:01:38.248+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:01:38.247699+00:00, run_after=2024-10-09T04:01:38.247699+00:00
+[2024-10-09T11:01:38.426+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.503 seconds
+[2024-10-09T11:02:45.244+0700] {processor.py:157} INFO - Started process (PID=4216) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:02:45.267+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:02:45.269+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:45.269+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:02:45.285+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:02:45.324+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:45.324+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:02:45.369+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:02:45.368+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:02:45.368409+00:00, run_after=2024-10-09T04:02:45.368409+00:00
+[2024-10-09T11:02:45.635+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.397 seconds
+[2024-10-09T11:03:43.437+0700] {processor.py:157} INFO - Started process (PID=4271) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:03:43.439+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:03:43.441+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:43.440+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:03:43.454+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:03:43.493+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:43.492+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:03:43.535+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:03:43.535+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:03:43.535082+00:00, run_after=2024-10-09T04:03:43.535082+00:00
+[2024-10-09T11:03:43.691+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.259 seconds
+[2024-10-09T11:05:27.251+0700] {processor.py:157} INFO - Started process (PID=4350) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:05:27.433+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:05:27.435+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:05:27.435+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:05:27.542+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:05:27.687+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:05:27.687+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:05:27.732+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:05:27.731+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:05:27.731168+00:00, run_after=2024-10-09T04:05:27.731168+00:00
+[2024-10-09T11:05:28.098+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.853 seconds
+[2024-10-09T11:06:58.615+0700] {processor.py:157} INFO - Started process (PID=4583) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:06:58.642+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:06:58.644+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:06:58.644+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:06:58.661+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:06:58.702+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:06:58.702+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:06:58.747+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:06:58.747+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:06:58.747031+00:00, run_after=2024-10-09T04:06:58.747031+00:00
+[2024-10-09T11:06:58.905+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.297 seconds
+[2024-10-09T11:08:03.622+0700] {processor.py:157} INFO - Started process (PID=4659) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:08:03.649+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:08:03.651+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:03.651+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:08:03.668+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:08:03.769+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:03.768+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:08:03.812+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:08:03.811+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:08:03.811360+00:00, run_after=2024-10-09T04:08:03.811360+00:00
+[2024-10-09T11:08:03.940+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.325 seconds
+[2024-10-09T11:09:01.496+0700] {processor.py:157} INFO - Started process (PID=4714) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:09:01.525+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:09:01.528+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:01.527+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:09:01.546+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:09:01.623+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:01.623+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:09:01.669+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:01.668+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:09:01.668196+00:00, run_after=2024-10-09T04:09:01.668196+00:00
+[2024-10-09T11:09:01.837+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.347 seconds
+[2024-10-09T11:09:54.961+0700] {processor.py:157} INFO - Started process (PID=4768) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:09:55.023+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:09:55.026+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:55.025+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:09:55.045+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:09:55.083+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:55.083+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:09:55.126+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:09:55.126+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:09:55.125758+00:00, run_after=2024-10-09T04:09:55.125758+00:00
+[2024-10-09T11:09:55.258+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.306 seconds
+[2024-10-09T11:10:45.073+0700] {processor.py:157} INFO - Started process (PID=4826) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:10:45.075+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:10:45.077+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:45.076+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:10:45.090+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:10:45.129+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:45.129+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:10:45.173+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:10:45.173+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:10:45.173089+00:00, run_after=2024-10-09T04:10:45.173089+00:00
+[2024-10-09T11:10:45.320+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.254 seconds
+[2024-10-09T11:11:39.242+0700] {processor.py:157} INFO - Started process (PID=4884) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:11:39.270+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:11:39.272+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:39.271+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:11:39.288+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:11:39.327+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:39.327+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:11:39.370+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:11:39.369+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:11:39.369244+00:00, run_after=2024-10-09T04:11:39.369244+00:00
+[2024-10-09T11:11:39.503+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.269 seconds
+[2024-10-09T11:12:31.817+0700] {processor.py:157} INFO - Started process (PID=4941) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:12:31.819+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:12:31.820+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:31.820+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:12:31.834+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:12:31.873+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:31.873+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:12:31.918+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:12:31.917+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:12:31.917473+00:00, run_after=2024-10-09T04:12:31.917473+00:00
+[2024-10-09T11:12:32.035+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.224 seconds
+[2024-10-09T11:13:25.754+0700] {processor.py:157} INFO - Started process (PID=4996) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:13:25.774+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:13:25.776+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:25.776+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:13:25.794+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:13:25.835+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:25.834+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:13:26.117+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:13:26.117+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:13:26.117001+00:00, run_after=2024-10-09T04:13:26.117001+00:00
+[2024-10-09T11:13:26.262+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.516 seconds
+[2024-10-09T11:14:25.634+0700] {processor.py:157} INFO - Started process (PID=5088) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:14:26.488+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:14:26.491+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:26.490+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:14:26.510+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:14:26.556+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:26.556+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:14:26.604+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:14:26.604+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:14:26.603758+00:00, run_after=2024-10-09T04:14:26.603758+00:00
+[2024-10-09T11:14:27.041+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.414 seconds
+[2024-10-09T11:15:50.911+0700] {processor.py:157} INFO - Started process (PID=5290) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:15:50.944+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:15:50.946+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:15:50.946+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:15:50.995+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:15:51.091+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:15:51.090+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:15:51.157+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:15:51.157+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:15:51.156682+00:00, run_after=2024-10-09T04:15:51.156682+00:00
+[2024-10-09T11:15:51.328+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.425 seconds
+[2024-10-09T11:16:42.568+0700] {processor.py:157} INFO - Started process (PID=5340) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:16:42.586+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:16:42.587+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:42.587+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:16:42.609+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:16:42.676+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:42.670+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:16:42.755+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:16:42.754+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:16:42.754201+00:00, run_after=2024-10-09T04:16:42.754201+00:00
+[2024-10-09T11:16:42.913+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.355 seconds
+[2024-10-09T11:17:51.725+0700] {processor.py:157} INFO - Started process (PID=5410) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:17:51.790+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:17:51.793+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:51.792+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:17:51.824+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:17:51.928+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:51.928+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:17:52.030+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:17:52.029+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:17:52.028932+00:00, run_after=2024-10-09T04:17:52.028932+00:00
+[2024-10-09T11:17:52.263+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.550 seconds
+[2024-10-09T11:18:59.128+0700] {processor.py:157} INFO - Started process (PID=5477) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:18:59.173+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:18:59.175+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:59.174+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:18:59.196+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:18:59.257+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:59.257+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:18:59.359+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:18:59.359+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:18:59.358492+00:00, run_after=2024-10-09T04:18:59.358492+00:00
+[2024-10-09T11:18:59.540+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.423 seconds
+[2024-10-09T11:20:00.559+0700] {processor.py:157} INFO - Started process (PID=5545) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:20:00.603+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:20:00.606+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:20:00.604+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:20:00.628+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:20:00.708+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:20:00.707+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:20:00.789+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:20:00.789+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:20:00.788334+00:00, run_after=2024-10-09T04:20:00.788334+00:00
+[2024-10-09T11:20:01.018+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.472 seconds
+[2024-10-09T11:21:07.753+0700] {processor.py:157} INFO - Started process (PID=5617) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:21:07.783+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:21:07.784+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:07.784+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:21:07.806+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:21:07.887+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:07.887+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:21:07.970+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:21:07.970+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:21:07.969748+00:00, run_after=2024-10-09T04:21:07.969748+00:00
+[2024-10-09T11:21:08.121+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.381 seconds
+[2024-10-09T11:22:13.360+0700] {processor.py:157} INFO - Started process (PID=5679) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:22:13.370+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:22:13.372+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:13.372+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:22:13.409+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:22:13.481+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:13.480+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:22:13.577+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:22:13.576+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:22:13.576027+00:00, run_after=2024-10-09T04:22:13.576027+00:00
+[2024-10-09T11:22:13.787+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.440 seconds
+[2024-10-09T11:23:15.747+0700] {processor.py:157} INFO - Started process (PID=5742) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:23:15.787+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:23:15.788+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:15.788+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:23:15.819+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:23:15.886+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:15.886+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:23:15.954+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:23:15.953+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:23:15.953131+00:00, run_after=2024-10-09T04:23:15.953131+00:00
+[2024-10-09T11:23:16.117+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.381 seconds
+[2024-10-09T11:24:21.980+0700] {processor.py:157} INFO - Started process (PID=5809) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:24:22.015+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:24:22.017+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:22.017+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:24:22.042+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:24:22.133+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:22.132+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:24:22.213+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:24:22.212+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:24:22.211994+00:00, run_after=2024-10-09T04:24:22.211994+00:00
+[2024-10-09T11:24:22.367+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.396 seconds
+[2024-10-09T11:25:31.110+0700] {processor.py:157} INFO - Started process (PID=5883) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:25:31.114+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:25:31.116+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:25:31.115+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:25:31.139+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:25:31.205+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:25:31.205+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:25:31.285+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:25:31.284+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:25:31.283916+00:00, run_after=2024-10-09T04:25:31.283916+00:00
+[2024-10-09T11:25:31.458+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.357 seconds
+[2024-10-09T11:27:34.327+0700] {processor.py:157} INFO - Started process (PID=5978) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:27:34.418+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:27:34.420+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:27:34.419+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:27:34.570+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:27:34.752+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:27:34.752+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:27:34.858+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:27:34.858+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:27:34.857862+00:00, run_after=2024-10-09T04:27:34.857862+00:00
+[2024-10-09T11:27:35.129+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.855 seconds
+[2024-10-09T11:29:18.307+0700] {processor.py:157} INFO - Started process (PID=6046) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:29:19.289+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:29:19.291+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:29:19.291+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:29:19.644+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:29:20.023+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:29:20.023+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:29:20.925+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:29:20.924+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:29:20.924517+00:00, run_after=2024-10-09T04:29:20.924517+00:00
+[2024-10-09T11:29:21.340+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 3.040 seconds
+[2024-10-09T11:30:52.977+0700] {processor.py:157} INFO - Started process (PID=6120) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:30:53.044+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:30:53.047+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:30:53.046+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:30:53.105+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:30:53.404+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:30:53.403+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:30:53.446+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:30:53.446+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:30:53.445788+00:00, run_after=2024-10-09T04:30:53.445788+00:00
+[2024-10-09T11:30:53.696+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.725 seconds
+[2024-10-09T11:33:51.451+0700] {processor.py:157} INFO - Started process (PID=6483) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:33:51.634+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:33:51.636+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:33:51.636+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:33:51.900+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:33:52.240+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:33:52.239+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:33:52.296+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:33:52.296+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:33:52.295965+00:00, run_after=2024-10-09T04:33:52.295965+00:00
+[2024-10-09T11:33:53.253+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.808 seconds
+[2024-10-09T11:35:25.760+0700] {processor.py:157} INFO - Started process (PID=6591) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:35:25.813+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:35:25.817+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:35:25.817+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:35:25.857+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:35:25.909+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:35:25.909+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:35:25.970+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:35:25.969+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:35:25.969040+00:00, run_after=2024-10-09T04:35:25.969040+00:00
+[2024-10-09T11:35:26.263+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.511 seconds
+[2024-10-09T11:36:28.115+0700] {processor.py:157} INFO - Started process (PID=6650) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:36:28.244+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:36:28.247+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:36:28.246+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:36:28.326+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:36:28.457+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:36:28.456+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:36:28.507+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:36:28.506+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:36:28.505881+00:00, run_after=2024-10-09T04:36:28.505881+00:00
+[2024-10-09T11:36:29.032+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.924 seconds
+[2024-10-09T11:39:01.984+0700] {processor.py:157} INFO - Started process (PID=6859) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:39:03.080+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-10-09T11:39:03.082+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:39:03.082+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:39:03.382+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-10-09T11:39:03.809+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:39:03.808+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-09T11:39:04.548+0700] {logging_mixin.py:149} INFO - [2024-10-09T11:39:04.548+0700] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2024-10-08T04:39:04.547495+00:00, run_after=2024-10-09T04:39:04.547495+00:00
+[2024-10-09T11:39:05.190+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 3.213 seconds

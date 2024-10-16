@@ -1,0 +1,11 @@
+[2024-10-08T19:27:24.916+0700] {processor.py:157} INFO - Started process (PID=3915) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-10-08T19:27:24.919+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2024-10-08T19:27:24.921+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:24.921+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-10-08T19:27:25.477+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-10-08T19:27:29.627+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:29.627+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_trigger_controller_dag
+[2024-10-08T19:27:29.813+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:29.812+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_trigger_controller_dag
+[2024-10-08T19:27:30.050+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:30.049+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_trigger_controller_dag
+[2024-10-08T19:27:30.051+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:30.051+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:27:30.768+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:30.767+0700] {dag.py:2747} INFO - Creating ORM DAG for example_trigger_controller_dag
+[2024-10-08T19:27:37.721+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:37.721+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-10-08T19:27:38.204+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 13.296 seconds

@@ -1,0 +1,11 @@
+[2024-10-08T19:27:46.834+0700] {processor.py:157} INFO - Started process (PID=3924) to work on /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-08T19:27:46.836+0700] {processor.py:826} INFO - Processing file /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-10-08T19:27:46.837+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:46.837+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-08T19:27:46.889+0700] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-10-08T19:27:47.538+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:47.537+0700] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2024-10-08T19:27:47.727+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:47.726+0700] {manager.py:504} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2024-10-08T19:27:47.867+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:47.867+0700] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2024-10-08T19:27:47.868+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:47.868+0700] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-08T19:27:48.231+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:48.230+0700] {dag.py:2747} INFO - Creating ORM DAG for example_trigger_target_dag
+[2024-10-08T19:27:48.269+0700] {logging_mixin.py:149} INFO - [2024-10-08T19:27:48.269+0700] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-10-08T19:27:48.776+0700] {processor.py:179} INFO - Processing /home/hasyidan/venv/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.959 seconds
